@@ -1,0 +1,75 @@
+---
+title: "CUNI and LMU Submission to the MRL 2024 Shared Task on Multi-lingual Multi-task Information Retrieval"
+authors: "Katharina Hämmerl, Andrei-Alexandru Manea, Gianluca Vico, Jindřich Helcl, Jindřich Libovický"
+---
+title: "McGill NLP Group Submission to the MRL 2024 Shared Task: Ensembling Enhances Effectiveness of Multilingual Small LMs"
+authors: "Senyu Li, Hao Yu, Jessica Ojo, David Ifeoluwa Adelani"
+---
+title: "MLT-DR: Multi-Lingual/Task Demonstration Retrieval: An Attempt towards Generalized Retriever for In-Context Learning"
+authors: "Kazuma Hashimoto, Arjun Reddy Akula, Karthik Raman, Michael Bendersky"
+---
+title: "Detecting and Translating Language Ambiguity with Multilingual LLMs"
+authors: "Behrang Mehrparvar, Sandro Pezzelle"
+---
+title: "Generalization Measures for Zero-Shot Cross-Lingual Transfer"
+authors: "Saksham Bassi, Duygu Ataman, Kyunghyun Cho"
+---
+title: "Representational Isomorphism and Alignment of Multilingual Large Language Models"
+authors: "Di Wu, Yibin Lei, Andrew Yates, Christof Monz"
+---
+title: "Language Bias in Multilingual Information Retrieval: The Nature of the Beast and Mitigation Methods"
+authors: "Jinrui Yang, Fan Jiang, Timothy Baldwin"
+---
+title: "Unsupervised Text Representation Learning via Instruction-Tuning for Zero-Shot Dense Retrieval"
+authors: "Qiuhai Zeng, Zimeng Qiu, Dae Yon Hwang, Xin He, William M. Campbell"
+---
+title: "Bridging the Bosphorus: Advancing Turkish Large Language Models through Strategies for Low-Resource Language Adaptation and Benchmarking"
+authors: "Emre Can Acikgoz, Mete Erdogan, Deniz Yuret"
+---
+title: "Leveraging LLMs for Translating and Classifying Mental Health Data"
+authors: "Konstantinos Skianis, A. Seza Doğruöz, John Pavlopoulos"
+---
+title: "Community OSCAR: A Community Effort for Multilingual Web Data"
+authors: "Manuel Brack, Malte Ostendorff, Pedro Ortiz Suarez, José Javier Saiz, Iñaki Lacunza Castilla, Jorge Palomar-Giner, Alexander Shvets, Patrick Schramowski, Georg Rehm, Marta Villegas, Kristian Kersting"
+---
+title: "Evaluating Multilingual Long-Context Models for Retrieval and Reasoning"
+authors: "Ameeta Agrawal, Andy Dang, Sina Bagheri Nezhad, Rhitabrat Pokharel, Russell Scheinberg"
+---
+title: "Leveraging Adapters for Improved Cross-lingual Transfer for Low-Resource Creole MT"
+authors: "Marcell Richard Fekete, Ernests Lavrinovics, Nathaniel Romney Robinson, Heather Lent, Raj Dabre, Johannes Bjerva"
+---
+title: "Mitigating the Linguistic Gap with Phonemic Representations for Robust Cross-lingual Transfer"
+authors: "Haeji Jung, Changdae Oh, Jooeon Kang, Jimin Sohn, Kyungwoo Song, Jinkyu Kim, David R Mortensen"
+---
+title: "Vikhr: Constructing a State-of-the-art Bilingual Open-Source Instruction-Following Large Language Model for Russian"
+authors: "Aleksandr Nikolich, Konstantin Korolev, Sergei Bratchikov, Igor Kiselev, Artem Shelmanov"
+---
+title: "Towards Cross-Linguistic Semantic Grounding using Dictionary Graph Analysis"
+authors: "Ethan Eschrich, Zoey Liu"
+---
+title: "Parameter-efficient Adaptation of Multilingual Multimodal Models for Low-resource ASR"
+authors: "Abhishek Gupta, Amruta Parulekar, Sameep Chattopadhyay, Preethi Jyothi"
+---
+title: "Cross-Lingual Named Entity Recognition for Low-Resource Languages: A Hindi-Nepali Case Study Using Multilingual BERT Models"
+authors: "Dipendra Yadav, Sumaiya Suravee, Tobias Strauß, Kristina Yordanova"
+---
+title: "Jina-ColBERT-v2: A General-Purpose Multilingual Late Interaction Retriever"
+authors: "Han Xiao, Bo Wang, Rohan Jha"
+---
+title: "Gender-specific Machine Translation with Large Language Models"
+authors: "Eduardo Sánchez, Pierre Andrews, Pontus Stenetorp, Mikel Artetxe, Marta R. Costa-jussà"
+---
+title: "Recipe for Zero-shot POS Tagging: Is It Useful in Realistic Scenarios?"
+authors: "Zeno Vandenbulcke, Lukas Vermeire, Miryam de Lhoneux"
+---
+title: "Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming"
+authors: "Demi Zhang, Bushi Xiao, Chao Gao, Sangpil Youm, Bonnie J Dorr"
+---
+title: "Language and Task Arithmetic with Parameter-Efficient Layers for Zero-Shot Summarization"
+authors: "Alexandra Chronopoulou, Jonas Pfeiffer, Joshua Maynez, Xinyi Wang, Sebastian Ruder, Priyanka Agrawal"
+---
+title: "Tagengo: A Multilingual Chat Dataset"
+authors: "Peter Devine"
+---
+title: "Are You Sure? Rank Them Again: Repeated Ranking For Better Preference Datasets"
+authors: "Peter Devine"

@@ -1,0 +1,26 @@
+title	authors
+CUNI and LMU Submission to the MRL 2024 Shared Task on Multi-lingual Multi-task Information Retrieval	Katharina Hämmerl, Andrei-Alexandru Manea, Gianluca Vico, Jindřich Helcl, Jindřich Libovický
+McGill NLP Group Submission to the MRL 2024 Shared Task: Ensembling Enhances Effectiveness of Multilingual Small LMs	Senyu Li, Hao Yu, Jessica Ojo, David Ifeoluwa Adelani
+MLT-DR: Multi-Lingual/Task Demonstration Retrieval: An Attempt towards Generalized Retriever for In-Context Learning	Kazuma Hashimoto, Arjun Reddy Akula, Karthik Raman, Michael Bendersky
+Detecting and Translating Language Ambiguity with Multilingual LLMs	Behrang Mehrparvar, Sandro Pezzelle
+Generalization Measures for Zero-Shot Cross-Lingual Transfer	Saksham Bassi, Duygu Ataman, Kyunghyun Cho
+Representational Isomorphism and Alignment of Multilingual Large Language Models	Di Wu, Yibin Lei, Andrew Yates, Christof Monz
+Language Bias in Multilingual Information Retrieval: The Nature of the Beast and Mitigation Methods	Jinrui Yang, Fan Jiang, Timothy Baldwin
+Unsupervised Text Representation Learning via Instruction-Tuning for Zero-Shot Dense Retrieval	Qiuhai Zeng, Zimeng Qiu, Dae Yon Hwang, Xin He, William M. Campbell
+Bridging the Bosphorus: Advancing Turkish Large Language Models through Strategies for Low-Resource Language Adaptation and Benchmarking	Emre Can Acikgoz, Mete Erdogan, Deniz Yuret
+Leveraging LLMs for Translating and Classifying Mental Health Data	Konstantinos Skianis, A. Seza Doğruöz, John Pavlopoulos
+Community OSCAR: A Community Effort for Multilingual Web Data	Manuel Brack, Malte Ostendorff, Pedro Ortiz Suarez, José Javier Saiz, Iñaki Lacunza Castilla, Jorge Palomar-Giner, Alexander Shvets, Patrick Schramowski, Georg Rehm, Marta Villegas, Kristian Kersting
+Evaluating Multilingual Long-Context Models for Retrieval and Reasoning	Ameeta Agrawal, Andy Dang, Sina Bagheri Nezhad, Rhitabrat Pokharel, Russell Scheinberg
+Leveraging Adapters for Improved Cross-lingual Transfer for Low-Resource Creole MT	Marcell Richard Fekete, Ernests Lavrinovics, Nathaniel Romney Robinson, Heather Lent, Raj Dabre, Johannes Bjerva
+Mitigating the Linguistic Gap with Phonemic Representations for Robust Cross-lingual Transfer	Haeji Jung, Changdae Oh, Jooeon Kang, Jimin Sohn, Kyungwoo Song, Jinkyu Kim, David R Mortensen
+Vikhr: Constructing a State-of-the-art Bilingual Open-Source Instruction-Following Large Language Model for Russian	Aleksandr Nikolich, Konstantin Korolev, Sergei Bratchikov, Igor Kiselev, Artem Shelmanov
+Towards Cross-Linguistic Semantic Grounding using Dictionary Graph Analysis	Ethan Eschrich, Zoey Liu
+Parameter-efficient Adaptation of Multilingual Multimodal Models for Low-resource ASR	Abhishek Gupta, Amruta Parulekar, Sameep Chattopadhyay, Preethi Jyothi
+Cross-Lingual Named Entity Recognition for Low-Resource Languages: A Hindi-Nepali Case Study Using Multilingual BERT Models	Dipendra Yadav, Sumaiya Suravee, Tobias Strauß, Kristina Yordanova
+Jina-ColBERT-v2: A General-Purpose Multilingual Late Interaction Retriever	Han Xiao, Bo Wang, Rohan Jha
+Gender-specific Machine Translation with Large Language Models	Eduardo Sánchez, Pierre Andrews, Pontus Stenetorp, Mikel Artetxe, Marta R. Costa-jussà
+Recipe for Zero-shot POS Tagging: Is It Useful in Realistic Scenarios?	Zeno Vandenbulcke, Lukas Vermeire, Miryam de Lhoneux
+Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming	Demi Zhang, Bushi Xiao, Chao Gao, Sangpil Youm, Bonnie J Dorr
+Language and Task Arithmetic with Parameter-Efficient Layers for Zero-Shot Summarization	Alexandra Chronopoulou, Jonas Pfeiffer, Joshua Maynez, Xinyi Wang, Sebastian Ruder, Priyanka Agrawal
+Tagengo: A Multilingual Chat Dataset	Peter Devine
+Are You Sure? Rank Them Again: Repeated Ranking For Better Preference Datasets	Peter Devine
