@@ -1,0 +1,3 @@
+[submodule "aclpub2"]
+	path = aclpub2
+	url = git@github.com:rycolab/aclpub2.git
