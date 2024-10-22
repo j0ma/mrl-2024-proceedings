@@ -6,3 +6,8 @@ Practice repo for building proceedings.
 How to run
 ----------
 1. Run `git submodule update --init --recursive` to clone the ACLPUB2 repo.
+
+How to contribute
+-----------------
+1. Fork the repo
+2. Submit a PR
