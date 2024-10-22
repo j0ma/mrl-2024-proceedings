@@ -2,3 +2,7 @@ MRL 2024 Workshop Proceedings
 -----------------------------
 
 Practice repo for building proceedings.
+
+How to run
+----------
+1. Run `git submodule update --init --recursive` to clone the ACLPUB2 repo.
