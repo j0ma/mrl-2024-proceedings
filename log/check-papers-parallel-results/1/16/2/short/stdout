@@ -1,0 +1,14 @@
+Checking 16.pdf
+Found text violation:	Margin.LEFT	{'text': 'SabaSturua2', 'x0': 54.01999999999998, 'x1': 118.67951412999997, 'top': 120.69309939999994, 'doctop': 120.69309939999994, 'bottom': 133.9546368, 'upright': True, 'height': 13.261537400000066, 'width': 64.65951412999999, 'direction': 'ltr', 'non_stroking_color': (0,), 'stroking_color': (0,)}
+Found text violation:	Margin.RIGHT	{'text': 'and', 'x0': 521.527, 'x1': 538.1925488, 'top': 122.08312320000005, 'doctop': 122.08312320000005, 'bottom': 134.03832320000004, 'upright': True, 'height': 11.95519999999999, 'width': 16.66554880000001, 'direction': 'ltr', 'non_stroking_color': (0,), 'stroking_color': (0,)}
+Errors. Check errors-16.json for details.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Page Limit): Paper exceeds the page limit because first (References, Acknowledgments, Ethics Statement) was found on page 6, line 33.
+
+We detected 3 errors and 0 warnings in your paper.
+In general, it is required that you fix errors for your paper to be published. Fixing warnings is optional, but recommended.
+Important: Some of the margin errors may be spurious. The library detects the location of images, but not whether they have a white background that blends in.
+Important: Some of the warnings generated for citations may be spurious and inaccurate, due to parsing and indexing errors.
+We encourage you to double check the citations and update them depending on the latest source. If you believe that your citation is updated and correct, then please ignore those warnings.
+Check completed for 16. Results are in 03-nonclean/16

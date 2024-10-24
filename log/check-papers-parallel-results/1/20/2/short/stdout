@@ -1,0 +1,407 @@
+Checking 20.pdf
+Found text violation:	Margin.LEFT	{'text': '001', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 241.8844117, 'doctop': 241.8844117, 'bottom': 249.8545117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '002', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 253.83941170000003, 'doctop': 253.83941170000003, 'bottom': 261.80951170000003, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '003', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 265.79441169999996, 'doctop': 265.79441169999996, 'bottom': 273.76451169999996, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '004', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 277.7504117, 'doctop': 277.7504117, 'bottom': 285.7205117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '005', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 289.7054117, 'doctop': 289.7054117, 'bottom': 297.6755117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '006', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 301.66041169999994, 'doctop': 301.66041169999994, 'bottom': 309.63051169999994, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '007', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 313.6154117, 'doctop': 313.6154117, 'bottom': 321.5855117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '008', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 325.5704117, 'doctop': 325.5704117, 'bottom': 333.54051169999997, 'upright': True, 'height': 7.970099999999945, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '009', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 337.52541169999995, 'doctop': 337.52541169999995, 'bottom': 345.49551169999995, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '010', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 349.48141169999997, 'doctop': 349.48141169999997, 'bottom': 357.45151169999997, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '011', 'x0': 12.216999999999999, 'x1': 25.5111268, 'top': 361.43641169999995, 'doctop': 361.43641169999995, 'bottom': 369.40651169999995, 'upright': True, 'height': 7.970100000000002, 'width': 13.2941268, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '012', 'x0': 12.216999999999999, 'x1': 25.5111268, 'top': 380.6874116999999, 'doctop': 380.6874116999999, 'bottom': 388.65751169999993, 'upright': True, 'height': 7.970100000000002, 'width': 13.2941268, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '013', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 400.76541169999996, 'doctop': 400.76541169999996, 'bottom': 408.73551169999996, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '014', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 414.3144117, 'doctop': 414.3144117, 'bottom': 422.2845117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '015', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 427.8634117, 'doctop': 427.8634117, 'bottom': 435.8335117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '016', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 441.4134117, 'doctop': 441.4134117, 'bottom': 449.3835117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '017', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 454.96241169999996, 'doctop': 454.96241169999996, 'bottom': 462.93251169999996, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '018', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 468.5114117, 'doctop': 468.5114117, 'bottom': 476.4815117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '019', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 482.0604117, 'doctop': 482.0604117, 'bottom': 490.0305117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '020', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 495.60941169999995, 'doctop': 495.60941169999995, 'bottom': 503.57951169999995, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '021', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 509.15941169999996, 'doctop': 509.15941169999996, 'bottom': 517.1295117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '022', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 522.7084116999999, 'doctop': 522.7084116999999, 'bottom': 530.6785117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '023', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 536.2574116999999, 'doctop': 536.2574116999999, 'bottom': 544.2275116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '024', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 549.8064116999999, 'doctop': 549.8064116999999, 'bottom': 557.7765116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '025', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 563.3554117, 'doctop': 563.3554117, 'bottom': 571.3255117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '026', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 576.9054117, 'doctop': 576.9054117, 'bottom': 584.8755117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '027', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 590.4544117, 'doctop': 590.4544117, 'bottom': 598.4245117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '028', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 604.0034117, 'doctop': 604.0034117, 'bottom': 611.9735117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '029', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 617.5524117, 'doctop': 617.5524117, 'bottom': 625.5225117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '030', 'x0': 12.216999999999999, 'x1': 25.5111268, 'top': 631.1014117, 'doctop': 631.1014117, 'bottom': 639.0715117, 'upright': True, 'height': 7.970100000000002, 'width': 13.2941268, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '031', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 644.6514116999999, 'doctop': 644.6514116999999, 'bottom': 652.6215116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '032', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 658.2004116999999, 'doctop': 658.2004116999999, 'bottom': 666.1705116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '033', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 671.7494117, 'doctop': 671.7494117, 'bottom': 679.7195117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '034', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 685.2984117, 'doctop': 685.2984117, 'bottom': 693.2685117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '035', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 698.8474117, 'doctop': 698.8474117, 'bottom': 706.8175117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '036', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 712.3974117, 'doctop': 712.3974117, 'bottom': 720.3675117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '037', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 725.9464117, 'doctop': 725.9464117, 'bottom': 733.9165117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '038', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 739.4954117, 'doctop': 739.4954117, 'bottom': 747.4655117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '039', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 753.0444117, 'doctop': 753.0444117, 'bottom': 761.0145117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '040', 'x0': 12.216999999999999, 'x1': 25.5111268, 'top': 766.5934116999999, 'doctop': 766.5934116999999, 'bottom': 774.5635116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.2941268, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '041', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 224.62541169999997, 'doctop': 224.62541169999997, 'bottom': 232.59551169999997, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '042', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 238.17541169999993, 'doctop': 238.17541169999993, 'bottom': 246.14551169999993, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '043', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 251.72441170000002, 'doctop': 251.72441170000002, 'bottom': 259.6945117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '044', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 265.2734117, 'doctop': 265.2734117, 'bottom': 273.2435117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '045', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 278.8224117, 'doctop': 278.8224117, 'bottom': 286.7925117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '046', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 292.37141169999995, 'doctop': 292.37141169999995, 'bottom': 300.34151169999996, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '047', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 305.9214117, 'doctop': 305.9214117, 'bottom': 313.8915117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '048', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 319.4704117, 'doctop': 319.4704117, 'bottom': 327.4405117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '049', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 333.0194117, 'doctop': 333.0194117, 'bottom': 340.9895117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '050', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 346.56841169999996, 'doctop': 346.56841169999996, 'bottom': 354.53851169999996, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '051', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 360.1174117, 'doctop': 360.1174117, 'bottom': 368.0875117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '052', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 373.66741169999995, 'doctop': 373.66741169999995, 'bottom': 381.63751169999995, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '053', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 387.2164117, 'doctop': 387.2164117, 'bottom': 395.1865117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '054', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 400.76541169999996, 'doctop': 400.76541169999996, 'bottom': 408.73551169999996, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '055', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 414.3144117, 'doctop': 414.3144117, 'bottom': 422.2845117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '056', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 427.8634117, 'doctop': 427.8634117, 'bottom': 435.8335117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '057', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 441.4134117, 'doctop': 441.4134117, 'bottom': 449.3835117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '058', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 454.96241169999996, 'doctop': 454.96241169999996, 'bottom': 462.93251169999996, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '059', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 468.5114117, 'doctop': 468.5114117, 'bottom': 476.4815117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '060', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 482.0604117, 'doctop': 482.0604117, 'bottom': 490.0305117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '061', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 495.60941169999995, 'doctop': 495.60941169999995, 'bottom': 503.57951169999995, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '062', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 509.15941169999996, 'doctop': 509.15941169999996, 'bottom': 517.1295117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '063', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 522.7084116999999, 'doctop': 522.7084116999999, 'bottom': 530.6785117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '064', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 536.2574116999999, 'doctop': 536.2574116999999, 'bottom': 544.2275116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '065', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 549.8064116999999, 'doctop': 549.8064116999999, 'bottom': 557.7765116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '066', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 563.3554117, 'doctop': 563.3554117, 'bottom': 571.3255117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '067', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 576.9054117, 'doctop': 576.9054117, 'bottom': 584.8755117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '068', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 590.4544117, 'doctop': 590.4544117, 'bottom': 598.4245117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '069', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 604.0034117, 'doctop': 604.0034117, 'bottom': 611.9735117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '070', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 617.5524117, 'doctop': 617.5524117, 'bottom': 625.5225117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '071', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 631.1014117, 'doctop': 631.1014117, 'bottom': 639.0715117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '072', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 644.6514116999999, 'doctop': 644.6514116999999, 'bottom': 652.6215116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '073', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 658.2004116999999, 'doctop': 658.2004116999999, 'bottom': 666.1705116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '074', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 671.7494117, 'doctop': 671.7494117, 'bottom': 679.7195117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '075', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 685.2984117, 'doctop': 685.2984117, 'bottom': 693.2685117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '076', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 698.8474117, 'doctop': 698.8474117, 'bottom': 706.8175117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '077', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 712.3974117, 'doctop': 712.3974117, 'bottom': 720.3675117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '078', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 725.9464117, 'doctop': 725.9464117, 'bottom': 733.9165117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '079', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 739.4954117, 'doctop': 739.4954117, 'bottom': 747.4655117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '080', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 753.0444117, 'doctop': 753.0444117, 'bottom': 761.0145117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '081', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 766.5934116999999, 'doctop': 766.5934116999999, 'bottom': 774.5635116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.BOTTOM	{'top': 780, 'bottom': 841}
+Found text violation:	Margin.LEFT	{'text': '082', 'x0': 12.216999999999999, 'x1': 25.5111268, 'top': 75.58441169999992, 'doctop': 917.4744116999999, 'bottom': 83.55451169999992, 'upright': True, 'height': 7.970100000000002, 'width': 13.2941268, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '083', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 98.84941170000002, 'doctop': 940.7394117, 'bottom': 106.81951170000002, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '084', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 112.3984117, 'doctop': 954.2884117, 'bottom': 120.3685117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '085', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 125.94841169999995, 'doctop': 967.8384116999999, 'bottom': 133.91851169999995, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '086', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 139.49741169999993, 'doctop': 981.3874116999999, 'bottom': 147.46751169999993, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '087', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 153.04641170000002, 'doctop': 994.9364117, 'bottom': 161.01651170000002, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '088', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 166.5954117, 'doctop': 1008.4854117, 'bottom': 174.5655117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '089', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 180.14441169999998, 'doctop': 1022.0344117, 'bottom': 188.11451169999998, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '090', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 193.69441169999993, 'doctop': 1035.5844117, 'bottom': 201.66451169999993, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '091', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 207.24341170000002, 'doctop': 1049.1334117000001, 'bottom': 215.21351170000003, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '092', 'x0': 12.216999999999999, 'x1': 25.5111268, 'top': 220.7924117, 'doctop': 1062.6824117, 'bottom': 228.7625117, 'upright': True, 'height': 7.970100000000002, 'width': 13.2941268, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '093', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 235.29041169999994, 'doctop': 1077.1804117, 'bottom': 243.26051169999994, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '094', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 248.83941170000003, 'doctop': 1090.7294117000001, 'bottom': 256.80951170000003, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '095', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 262.3894117, 'doctop': 1104.2794116999999, 'bottom': 270.3595117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '096', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 275.93841169999996, 'doctop': 1117.8284116999998, 'bottom': 283.90851169999996, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '097', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 289.48741169999994, 'doctop': 1131.3774116999998, 'bottom': 297.45751169999994, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '098', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 303.0364116999999, 'doctop': 1144.9264116999998, 'bottom': 311.0065116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '099', 'x0': 12.216999999999999, 'x1': 25.5111268, 'top': 316.5854116999999, 'doctop': 1158.4754116999998, 'bottom': 324.5555116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.2941268, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '100', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 331.0844117, 'doctop': 1172.9744117, 'bottom': 339.0545117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '101', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 344.63341169999995, 'doctop': 1186.5234117, 'bottom': 352.60351169999996, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '102', 'x0': 12.216999999999999, 'x1': 25.5111268, 'top': 358.18241169999993, 'doctop': 1200.0724117, 'bottom': 366.15251169999993, 'upright': True, 'height': 7.970100000000002, 'width': 13.2941268, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '103', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 371.73141169999997, 'doctop': 1213.6214117, 'bottom': 379.70151169999997, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '104', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 385.2814117, 'doctop': 1227.1714117, 'bottom': 393.2515117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '105', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 398.83041169999996, 'doctop': 1240.7204116999999, 'bottom': 406.80051169999996, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '106', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 412.3794117, 'doctop': 1254.2694117, 'bottom': 420.3495117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '107', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 425.92841169999997, 'doctop': 1267.8184117, 'bottom': 433.8985117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '108', 'x0': 12.216999999999999, 'x1': 25.5111268, 'top': 439.47741169999995, 'doctop': 1281.3674117, 'bottom': 447.44751169999995, 'upright': True, 'height': 7.970100000000002, 'width': 13.2941268, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '109', 'x0': 12.216999999999999, 'x1': 25.5111268, 'top': 466.5314116999999, 'doctop': 1308.4214117, 'bottom': 474.5015116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.2941268, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '110', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 489.79641169999996, 'doctop': 1331.6864117, 'bottom': 497.76651169999997, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '111', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 503.3454117, 'doctop': 1345.2354117, 'bottom': 511.3155117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '112', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 516.8944117, 'doctop': 1358.7844117, 'bottom': 524.8645117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '113', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 530.4434117, 'doctop': 1372.3334117, 'bottom': 538.4135117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '114', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 543.9924117, 'doctop': 1385.8824117, 'bottom': 551.9625117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '115', 'x0': 12.216999999999999, 'x1': 25.5111268, 'top': 704.3724116999999, 'doctop': 1546.2624117, 'bottom': 712.3425116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.2941268, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '116', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 716.5094117, 'doctop': 1558.3994117, 'bottom': 724.4795117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '117', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 730.0584117, 'doctop': 1571.9484117, 'bottom': 738.0285117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '118', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 743.6074117, 'doctop': 1585.4974117, 'bottom': 751.5775117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '119', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 251.3544117, 'doctop': 1093.2444117, 'bottom': 259.3245117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '120', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 264.9034117, 'doctop': 1106.7934117, 'bottom': 272.8735117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '121', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 278.45241169999997, 'doctop': 1120.3424117, 'bottom': 286.4225117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '122', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 292.0024116999999, 'doctop': 1133.8924117, 'bottom': 299.9725116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '123', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 305.5514117, 'doctop': 1147.4414117000001, 'bottom': 313.5215117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '124', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 319.1004117, 'doctop': 1160.9904117, 'bottom': 327.0705117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '125', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 332.6494117, 'doctop': 1174.5394117, 'bottom': 340.6195117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '126', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 346.19841169999995, 'doctop': 1188.0884117, 'bottom': 354.16851169999995, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '127', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 359.74841169999996, 'doctop': 1201.6384117, 'bottom': 367.71851169999997, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '128', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 373.29741169999994, 'doctop': 1215.1874117, 'bottom': 381.26751169999994, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '129', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 387.0314117, 'doctop': 1228.9214117, 'bottom': 395.0015117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '130', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 400.58041169999996, 'doctop': 1242.4704116999999, 'bottom': 408.55051169999996, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '131', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 414.1294117, 'doctop': 1256.0194117, 'bottom': 422.0995117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '132', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 427.67841169999997, 'doctop': 1269.5684117, 'bottom': 435.6485117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '133', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 441.2284117, 'doctop': 1283.1184117, 'bottom': 449.1985117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '134', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 454.77741169999996, 'doctop': 1296.6674117, 'bottom': 462.74751169999996, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '135', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 468.3264117, 'doctop': 1310.2164117, 'bottom': 476.2965117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '136', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 481.8754117, 'doctop': 1323.7654117, 'bottom': 489.8455117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '137', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 495.42441169999995, 'doctop': 1337.3144117, 'bottom': 503.39451169999995, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '138', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 508.97441169999996, 'doctop': 1350.8644117, 'bottom': 516.9445117, 'upright': True, 'height': 7.970100000000059, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '139', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 522.5234117, 'doctop': 1364.4134116999999, 'bottom': 530.4935117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '140', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 536.0724117, 'doctop': 1377.9624116999998, 'bottom': 544.0425117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '141', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 549.6214117, 'doctop': 1391.5114116999998, 'bottom': 557.5915117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '142', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 563.1704116999999, 'doctop': 1405.0604116999998, 'bottom': 571.1405116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '143', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 576.7204117, 'doctop': 1418.6104117, 'bottom': 584.6905117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '144', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 590.4544117, 'doctop': 1432.3444117, 'bottom': 598.4245117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '145', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 604.0034117, 'doctop': 1445.8934117, 'bottom': 611.9735117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '146', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 617.5524117, 'doctop': 1459.4424116999999, 'bottom': 625.5225117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '147', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 631.1014117, 'doctop': 1472.9914116999998, 'bottom': 639.0715117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '148', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 644.6514116999999, 'doctop': 1486.5414117, 'bottom': 652.6215116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '149', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 658.2004116999999, 'doctop': 1500.0904117, 'bottom': 666.1705116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '150', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 671.7494117, 'doctop': 1513.6394117, 'bottom': 679.7195117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '151', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 685.2984117, 'doctop': 1527.1884117, 'bottom': 693.2685117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '152', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 698.8474117, 'doctop': 1540.7374117, 'bottom': 706.8175117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '153', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 712.3974117, 'doctop': 1554.2874117000001, 'bottom': 720.3675117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '154', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 725.9464117, 'doctop': 1567.8364117, 'bottom': 733.9165117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '155', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 739.4954117, 'doctop': 1581.3854117, 'bottom': 747.4655117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '156', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 753.0444117, 'doctop': 1594.9344117, 'bottom': 761.0145117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.RIGHT	{'text': '157', 'x0': 566.432, 'x1': 579.7261268000001, 'top': 766.5934116999999, 'doctop': 1608.4834117, 'bottom': 774.5635116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000072, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.BOTTOM	{'top': 780, 'bottom': 841}
+Found text violation:	Margin.LEFT	{'text': '158', 'x0': 12.216999999999999, 'x1': 25.5111268, 'top': 75.58441169999992, 'doctop': 1759.3644117, 'bottom': 83.55451169999992, 'upright': True, 'height': 7.970100000000002, 'width': 13.2941268, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '159', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 93.2684117, 'doctop': 1777.0484117, 'bottom': 101.2385117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '160', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 104.22741169999995, 'doctop': 1788.0074117, 'bottom': 112.19751169999995, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '161', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 115.18641170000001, 'doctop': 1798.9664117, 'bottom': 123.15651170000001, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '162', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 126.14541169999995, 'doctop': 1809.9254117, 'bottom': 134.11551169999996, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '163', 'x0': 12.216999999999999, 'x1': 25.5111268, 'top': 137.1044116999999, 'doctop': 1820.8844116999999, 'bottom': 145.0745116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.2941268, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '164', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 157.02941169999997, 'doctop': 1840.8094117, 'bottom': 164.99951169999997, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '165', 'x0': 12.217000000000013, 'x1': 25.511126800000014, 'top': 167.98841169999992, 'doctop': 1851.7684117, 'bottom': 175.95851169999992, 'upright': True, 'height': 7.970100000000002, 'width': 13.2941268, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '166', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 187.91341169999998, 'doctop': 1871.6934117, 'bottom': 195.88351169999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '167', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 198.87241169999993, 'doctop': 1882.6524117, 'bottom': 206.84251169999993, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '168', 'x0': 12.216999999999999, 'x1': 25.5111268, 'top': 209.83141169999988, 'doctop': 1893.6114116999997, 'bottom': 217.80151169999988, 'upright': True, 'height': 7.970100000000002, 'width': 13.2941268, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '169', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 229.75641169999994, 'doctop': 1913.5364117, 'bottom': 237.72651169999995, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '170', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 240.7154117, 'doctop': 1924.4954117, 'bottom': 248.6855117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '171', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 251.67441169999995, 'doctop': 1935.4544117, 'bottom': 259.64451169999995, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '172', 'x0': 12.217000000000013, 'x1': 25.511126800000014, 'top': 262.6334116999999, 'doctop': 1946.4134116999999, 'bottom': 270.6035116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.2941268, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '173', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 282.55841169999997, 'doctop': 1966.3384117, 'bottom': 290.52851169999997, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '174', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 293.5174117, 'doctop': 1977.2974116999999, 'bottom': 301.4875117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '175', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 304.47641169999997, 'doctop': 1988.2564117, 'bottom': 312.4465117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '176', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 315.4354116999999, 'doctop': 1999.2154117, 'bottom': 323.4055116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '177', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 326.3944117, 'doctop': 2010.1744116999998, 'bottom': 334.3645117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '178', 'x0': 12.217000000000013, 'x1': 25.511126800000014, 'top': 337.3534117, 'doctop': 2021.1334117, 'bottom': 345.3235117, 'upright': True, 'height': 7.970100000000002, 'width': 13.2941268, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '179', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 357.2784117, 'doctop': 2041.0584116999999, 'bottom': 365.2485117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '180', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 368.2374117, 'doctop': 2052.0174117, 'bottom': 376.2075117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '181', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 379.1964117, 'doctop': 2062.9764117, 'bottom': 387.1665117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '182', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 390.15541169999995, 'doctop': 2073.9354117, 'bottom': 398.12551169999995, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '183', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 401.11441169999995, 'doctop': 2084.8944117, 'bottom': 409.08451169999995, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '184', 'x0': 12.216999999999985, 'x1': 25.511126799999985, 'top': 412.0724117, 'doctop': 2095.8524116999997, 'bottom': 420.0425117, 'upright': True, 'height': 7.970100000000002, 'width': 13.2941268, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '185', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 431.99841169999996, 'doctop': 2115.7784117, 'bottom': 439.96851169999997, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '186', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 442.95741169999997, 'doctop': 2126.7374117, 'bottom': 450.92751169999997, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '187', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 453.91641169999997, 'doctop': 2137.6964116999998, 'bottom': 461.88651169999997, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '188', 'x0': 12.216999999999985, 'x1': 25.511126799999985, 'top': 464.8744117, 'doctop': 2148.6544117, 'bottom': 472.8445117, 'upright': True, 'height': 7.970100000000002, 'width': 13.2941268, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '189', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 484.8004117, 'doctop': 2168.5804117, 'bottom': 492.7705117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '190', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 495.7594117, 'doctop': 2179.5394117, 'bottom': 503.7295117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '191', 'x0': 12.216999999999999, 'x1': 25.5111268, 'top': 506.7184117, 'doctop': 2190.4984117, 'bottom': 514.6885116999999, 'upright': True, 'height': 7.970099999999945, 'width': 13.2941268, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '192', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 526.6434117, 'doctop': 2210.4234117, 'bottom': 534.6135117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '193', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 537.6024117, 'doctop': 2221.3824117, 'bottom': 545.5725117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '194', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 548.5614117, 'doctop': 2232.3414117, 'bottom': 556.5315117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '195', 'x0': 12.217, 'x1': 25.511126800000007, 'top': 559.5194117, 'doctop': 2243.2994117, 'bottom': 567.4895117, 'upright': True, 'height': 7.970100000000002, 'width': 13.294126800000006, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.LEFT	{'text': '196', 'x0': 12.216999999999999, 'x1': 25.5111268, 'top': 570.4784116999999, 'doctop': 2254.2584116999997, 'bottom': 578.4485116999999, 'upright': True, 'height': 7.970100000000002, 'width': 13.2941268, 'direction': 'ltr', 'non_stroking_color': (0.75,), 'stroking_color': (0.75,)}
+Found text violation:	Margin.BOTTOM	{'top': 780, 'bottom': 841}
+Errors. Check errors-20.json for details.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the left margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the right margin.
+Error (Margin): Text on page 1 bleeds into the bottom margin. It should be empty (e.g., without page number) and populated when building the proceedings.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the left margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the right margin.
+Error (Margin): Text on page 2 bleeds into the bottom margin. It should be empty (e.g., without page number) and populated when building the proceedings.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the left margin.
+Error (Margin): Text on page 3 bleeds into the bottom margin. It should be empty (e.g., without page number) and populated when building the proceedings.
+
+We detected 199 errors and 0 warnings in your paper.
+In general, it is required that you fix errors for your paper to be published. Fixing warnings is optional, but recommended.
+Important: Some of the margin errors may be spurious. The library detects the location of images, but not whether they have a white background that blends in.
+Important: Some of the warnings generated for citations may be spurious and inaccurate, due to parsing and indexing errors.
+We encourage you to double check the citations and update them depending on the latest source. If you believe that your citation is updated and correct, then please ignore those warnings.
+Check completed for 20. Results are in 03-nonclean/20

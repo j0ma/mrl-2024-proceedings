@@ -1,0 +1,33 @@
+Checking 1.pdf
+Found text violation:	Margin.RIGHT	{'text': 'Language', 'x0': 517.5661232, 'x1': 555.4312304000001, 'top': 316.87457759999995, 'doctop': 9577.6645776, 'bottom': 325.8409776, 'upright': True, 'height': 8.966400000000021, 'width': 37.865107200000125, 'direction': 'ltr', 'non_stroking_color': (0,), 'stroking_color': (0,)}
+Found text violation:	Margin.RIGHT	{'text': 'ExpertAvg', 'x0': 514.9120688, 'x1': 558.0942512000001, 'top': 326.83657759999994, 'doctop': 9587.6265776, 'bottom': 335.80297759999996, 'upright': True, 'height': 8.966400000000021, 'width': 43.1821824000001, 'direction': 'ltr', 'non_stroking_color': (0,), 'stroking_color': (0,)}
+Found text violation:	Margin.RIGHT	{'text': '1.50', 'x0': 528.6550000000001, 'x1': 544.3462000000001, 'top': 342.4995776, 'doctop': 9603.2895776, 'bottom': 351.4659776, 'upright': True, 'height': 8.966399999999965, 'width': 15.69119999999998, 'direction': 'ltr', 'non_stroking_color': (0,), 'stroking_color': (0,)}
+Found text violation:	Margin.RIGHT	{'text': '51.71%', 'x0': 521.9300000000001, 'x1': 551.0708000000001, 'top': 352.46257760000003, 'doctop': 9613.2525776, 'bottom': 361.4289776, 'upright': True, 'height': 8.966399999999965, 'width': 29.140800000000013, 'direction': 'ltr', 'non_stroking_color': (0,), 'stroking_color': (0,)}
+Found text violation:	Margin.RIGHT	{'text': '32.09%', 'x0': 522.68056, 'x1': 550.3239712, 'top': 362.4873424, 'doctop': 9623.2773424, 'bottom': 371.4537424, 'upright': True, 'height': 8.966400000000021, 'width': 27.643411199999946, 'direction': 'ltr', 'non_stroking_color': (0,), 'stroking_color': (0,)}
+Found text violation:	Margin.RIGHT	{'text': '33.43%', 'x0': 522.6790000000001, 'x1': 550.3224112, 'top': 372.4503424, 'doctop': 9633.2403424, 'bottom': 381.41674240000003, 'upright': True, 'height': 8.966400000000021, 'width': 27.643411199999946, 'direction': 'ltr', 'non_stroking_color': (0,), 'stroking_color': (0,)}
+Found text violation:	Margin.RIGHT	{'text': '43.04%', 'x0': 522.6790000000001, 'x1': 550.3224112, 'top': 382.41334240000003, 'doctop': 9643.2033424, 'bottom': 391.37974240000005, 'upright': True, 'height': 8.966400000000021, 'width': 27.643411199999946, 'direction': 'ltr', 'non_stroking_color': (0,), 'stroking_color': (0,)}
+Found text violation:	Margin.RIGHT	{'text': '68.03%', 'x0': 521.9300000000001, 'x1': 551.0708000000001, 'top': 392.31257760000005, 'doctop': 9653.1025776, 'bottom': 401.2789776, 'upright': True, 'height': 8.966399999999965, 'width': 29.140800000000013, 'direction': 'ltr', 'non_stroking_color': (0,), 'stroking_color': (0,)}
+Found text violation:	Margin.RIGHT	{'text': '71.97%', 'x0': 522.6790000000001, 'x1': 550.3224112, 'top': 402.33834240000004, 'doctop': 9663.128342400001, 'bottom': 411.30474240000007, 'upright': True, 'height': 8.966400000000021, 'width': 27.643411199999946, 'direction': 'ltr', 'non_stroking_color': (0,), 'stroking_color': (0,)}
+Found text violation:	Margin.RIGHT	{'text': '53.50%', 'x0': 522.6790000000001, 'x1': 550.3224112, 'top': 412.30034240000003, 'doctop': 9673.0903424, 'bottom': 421.26674240000006, 'upright': True, 'height': 8.966400000000021, 'width': 27.643411199999946, 'direction': 'ltr', 'non_stroking_color': (0,), 'stroking_color': (0,)}
+Found text violation:	Margin.RIGHT	{'text': '4.20%', 'x0': 524.9225600000001, 'x1': 548.0827712, 'top': 422.26334240000006, 'doctop': 9683.0533424, 'bottom': 431.2297424000001, 'upright': True, 'height': 8.966400000000021, 'width': 23.160211199999935, 'direction': 'ltr', 'non_stroking_color': (0,), 'stroking_color': (0,)}
+Found text violation:	Margin.BOTTOM	{'top': 780, 'bottom': 841}
+Errors. Check errors-1.json for details.
+Error (Margin): Text on page 12 bleeds into the right margin.
+Error (Margin): Text on page 12 bleeds into the right margin.
+Error (Margin): Text on page 12 bleeds into the right margin.
+Error (Margin): Text on page 12 bleeds into the right margin.
+Error (Margin): Text on page 12 bleeds into the right margin.
+Error (Margin): Text on page 12 bleeds into the right margin.
+Error (Margin): Text on page 12 bleeds into the right margin.
+Error (Margin): Text on page 12 bleeds into the right margin.
+Error (Margin): Text on page 12 bleeds into the right margin.
+Error (Margin): Text on page 12 bleeds into the right margin.
+Error (Margin): Text on page 12 bleeds into the right margin.
+Error (Margin): Text on page 21 bleeds into the bottom margin. It should be empty (e.g., without page number) and populated when building the proceedings.
+
+We detected 12 errors and 0 warnings in your paper.
+In general, it is required that you fix errors for your paper to be published. Fixing warnings is optional, but recommended.
+Important: Some of the margin errors may be spurious. The library detects the location of images, but not whether they have a white background that blends in.
+Important: Some of the warnings generated for citations may be spurious and inaccurate, due to parsing and indexing errors.
+We encourage you to double check the citations and update them depending on the latest source. If you believe that your citation is updated and correct, then please ignore those warnings.
+Check completed for 1. Results are in 03-nonclean/1
