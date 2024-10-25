@@ -1,0 +1,15 @@
+- members:
+  - first_name: David
+    institution: McGill University, Canada
+    last_name: Adelani
+  role: General Chair
+- members:
+  - first_name: Jonne
+    institution: Brandeis University, USA
+    last_name: Sälevä
+  - first_name: Abraham
+    institution: Ohio State University, USA
+    last_name: Owodunni
+  role: Publication Chairs
+
+# TODO: add rest
