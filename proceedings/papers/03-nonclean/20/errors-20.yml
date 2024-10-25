@@ -1,4 +1,0 @@
-Error.MARGIN:
-  - Text on page 1 bleeds into the bottom margin. It should be empty (e.g., without page number) and populated when building the proceedings.
-  - Text on page 2 bleeds into the bottom margin. It should be empty (e.g., without page number) and populated when building the proceedings.
-  - Text on page 3 bleeds into the bottom margin. It should be empty (e.g., without page number) and populated when building the proceedings.
