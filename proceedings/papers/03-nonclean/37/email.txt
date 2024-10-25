@@ -1,0 +1,24 @@
+Subject: [URGENT] [MRL 2024] Badly formatted camera-ready for Submission 37: MLT-DR: Multi-Lingual/Task Demonstration Retrieval\\An Attempt towards Generalized Retriever for In-Context Learning
+To: kazumah@google.com, arjunakula@google.com, karthikraman@google.com, bemike@google.com
+
+Dear authors,
+
+I hope this email finds you well. We are reaching out to you regarding your submission to our workshop titled "MLT-DR: Multi-Lingual/Task Demonstration Retrieval\\An Attempt towards Generalized Retriever for In-Context Learning" (Submission ID: 37).
+
+We are currently preparing the workshop proceedings and noticed that unfortunately your latest OpenReview submission does not conform to the camera-ready guidelines. (Please find the specific errors attached below.) Could you send us the camera-ready version of your paper as soon as possible? Since the OpenReview submission window is now closed, please send your camera-ready directly to me via email at jonnesaleva@brandeis.edu. Please also CC mrlworkshop2024@gmail.com.
+
+We highly recommend using the ACLPUBCHECK tool to check your camera-ready version before submission. You can find the tool here: https://github.com/acl-org/aclpubcheck.
+
+Thank you for your attention to this matter, and we look forward to receiving your camera-ready submission soon.
+
+Finally, in case you believe this message is in error, please reach out with information about your camera-ready submission.
+
+Best regards,
+
+Jonne Sälevä, Abraham Owodunni
+Publication Chairs, MRL 2024
+
+DETAILED ERRORS:
+
+Error.MARGIN:
+  - Text on page 3 bleeds into the right margin.

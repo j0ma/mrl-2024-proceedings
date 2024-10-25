@@ -1,0 +1,28 @@
+Subject: [URGENT] [MRL 2024] Badly formatted camera-ready for Submission 16: Jina-ColBERT-v2: A General-Purpose Multilingual Late Interaction Retriever
+To: han.xiao@jina.ai, bo.wang@jina.ai, robro612@gmail.com
+
+Dear authors,
+
+I hope this email finds you well. We are reaching out to you regarding your submission to our workshop titled "Jina-ColBERT-v2: A General-Purpose Multilingual Late Interaction Retriever" (Submission ID: 16).
+
+We are currently preparing the workshop proceedings and noticed that unfortunately your latest OpenReview submission does not conform to the camera-ready guidelines. (Please find the specific errors attached below.) Could you send us the camera-ready version of your paper as soon as possible? Since the OpenReview submission window is now closed, please send your camera-ready directly to me via email at jonnesaleva@brandeis.edu. Please also CC mrlworkshop2024@gmail.com.
+
+We highly recommend using the ACLPUBCHECK tool to check your camera-ready version before submission. You can find the tool here: https://github.com/acl-org/aclpubcheck.
+
+Thank you for your attention to this matter, and we look forward to receiving your camera-ready submission soon.
+
+Finally, in case you believe this message is in error, please reach out with information about your camera-ready submission.
+
+Best regards,
+
+Jonne Sälevä, Abraham Owodunni
+Publication Chairs, MRL 2024
+
+DETAILED ERRORS:
+
+Error.MARGIN:
+  - Text on page 1 bleeds into the left margin.
+  - Text on page 1 bleeds into the right margin.
+Error.PAGELIMIT:
+  - Paper exceeds the page limit because first (References, Acknowledgments, Ethics Statement) was found on page 6, line 33.
+
