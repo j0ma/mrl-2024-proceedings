@@ -1,519 +1,400 @@
 - entries:
-    - dblp_id: https://dblp.org/pid/230/6973
-      emails: davlanade@gmail.com
-      first_name: David
-      google_scholar_id: https://scholar.google.ca/citations?user=W9sTkS0AAAAJ&hl=en
-      homepage: https://dadelani.github.io/
-      last_name: Adelani
-      middle_name: Ifeoluwa
-      name: David Ifeoluwa Adelani
-      orcid: https://orcid.org/0000-0002-0193-2083
-      semantic_scholar_id: https://www.semanticscholar.org/author/D.-Adelani/2518906
-      username: ~David_Ifeoluwa_Adelani1
-    - emails: woleyakin@gmail.com
-      first_name: Solomon
-      last_name: Akinola
-      middle_name: Oluwole
-      name: Solomon Oluwole Akinola
-      orcid: https://orcid.org/0000-0002-4818-6348
-      username: ~Solomon_Oluwole_Akinola1
-    - emails: manuelamankwatia@gmail.com
-      first_name: Manuel
-      last_name: Amankwatia
-      middle_name: Bobie
-      name: Manuel Bobie Amankwatia
-      username: ~Manuel_Bobie_Amankwatia1
-    - emails: ahmadanis5050@gmail.com
-      first_name: Ahmad
-      homepage: https://ahmadmustafaanis.github.io/
-      last_name: Anis
-      middle_name: Mustafa
-      name: Ahmad Mustafa Anis
-      username: ~Ahmad_Mustafa_Anis1
-    - emails: arifmuhmmand@gmail.com
-      first_name: Muhammad
-      last_name: Arif
-      name: Muhammad Arif
-      username: ~Muhammad_Arif1
-    - emails: ccarnett@ucsd.edu
-      first_name: Catherine
-      google_scholar_id: https://scholar.google.com/citations?user=bLS_8RAAAAAJ&hl=en
-      homepage: https://catherinearnett.github.io/
-      last_name: Arnett
-      name: Catherine Arnett
-      orcid: https://orcid.org/0000-0003-0448-5415
-      username: ~Catherine_Arnett1
-    - emails: nigus1868@gmail.com
-      first_name: Nigus
-      last_name: Asnake
-      middle_name: Wereta
-      name: Nigus Wereta Asnake
-      username: ~Nigus_Wereta_Asnake2
-    - dblp_id: https://dblp.org/pid/187/5650
-      emails: ali.athar1401@gmail.com
-      first_name: Ali
-      google_scholar_id: https://scholar.google.com/citations?user=eG0E4KwAAAAJ&hl=en
-      last_name: Athar
-      name: ALI ATHAR
-      orcid: https://orcid.org/0000-0002-2331-7663
-      semantic_scholar_id: https://www.semanticscholar.org/author/Ali-Athar/2148264685
-      username: ~ALI_ATHAR2
-    - dblp_id: https://dblp.org/pid/214/0189
-      emails: fatemeh.azadi@nrc-cnrc.gc.ca
-      first_name: Fatemeh
-      google_scholar_id: https://scholar.google.com/citations?user=lnRz80kAAAAJ&hl=en
-      institution: National Research Council Canada
-      last_name: Azadi
-      name: Fatemeh Azadi
-      username: ~Fatemeh_Azadi1
-    - emails: tbartley@nvidia.com
-      first_name: Travis
-      google_scholar_id: https://scholar.google.com/citations?user=nPAeuRMAAAAJ&hl=en
-      institution: NVIDIA and City University of New York
-      last_name: Bartley
-      middle_name: M.
-      name: Travis M. Bartley
-      username: ~Travis_M._Bartley1
-    - emails: vishal.bhalla@tum.de
-      first_name: Vishal
-      google_scholar_id: https://scholar.google.co.in/citations?user=uirl4DkAAAAJ&hl=en
-      last_name: Bhalla
-      name: Vishal Bhalla
-      username: ~Vishal_Bhalla1
-    - emails: h.boumediene@lagh-univ.dz
-      first_name: Houda
-      last_name: Boumediene
-      name: Houda BOUMEDIENE
-      username: ~Houda_BOUMEDIENE1
-    - emails: jc12020@nyu.edu
-      first_name: Jiajing
-      google_scholar_id: https://scholar.google.com/citations?user=NH6gFZ8AAAAJ&hl=en
-      last_name: Chen
-      name: Jiajing Chen
-      username: ~Jiajing_Chen2
-    - emails: xc1490@nyu.edu
-      first_name: Xupeng
-      google_scholar_id: https://scholar.google.com/citations?user=d3HfTOsAAAAJ&hl=en
-      homepage: https://www.cmwonderland.com/
-      institution: New York University
-      last_name: Chen
-      name: Xupeng Chen
-      username: ~Xupeng_Chen1
-    - emails: olutosoyetaiwo1@gmail.com
-      first_name: Olutosoye
-      google_scholar_id: https://scholar.google.com/citations?user=DBBYkOgAAAAJ&hl=en
-      institution: Afe Babalola University
-      last_name: Christian
-      middle_name: Taiwo
-      name: OLUTOSOYE TAIWO CHRISTIAN
-      username: ~OLUTOSOYE_TAIWO_CHRISTIAN1
-    - emails: zcc6@cornell.edu
-      first_name: Zoltan
-      google_scholar_id: https://scholar.google.com/citations?user=_Hh92vUAAAAJ&hl=en&oi=sra
-      institution: Sambanova Systems
-      last_name: Csaki
-      name: Zoltan Csaki
-      username: ~Zoltan_Csaki1
-    - emails: dangdaxia@gmail.com
-      first_name: Bo
-      google_scholar_id: https://scholar.google.com/citations?view_op=list_works&hl=en&user=p8nITWsAAAAJ
-      institution: San Francisco Bay University
-      last_name: Dang
-      name: Bo Dang
-      orcid: https://orcid.org/0009-0005-5690-7124
-      username: ~Bo_Dang2
-    - dblp_id: https://dblp.org/pid/314/6525.html
-      emails: konstantin.dobler@hpi.de
-      first_name: Konstantin
-      google_scholar_id: https://scholar.google.com/citations?user=fJEat40AAAAJ
-      homepage: https://konstantindobler.me
-      institution: Hasso Plattner Institute
-      last_name: Dobler
-      name: Konstantin Dobler
-      semantic_scholar_id: https://www.semanticscholar.org/author/Konstantin-Dobler/2156114269
-      username: ~Konstantin_Dobler1
-    - dblp_id: https://dblp.org/pid/205/8970.html
-      emails: koeldc@lst.uni-saarland.de
-      first_name: Koel
-      google_scholar_id: https://scholar.google.com/citations?user=t5TOnGkAAAAJ&hl=en
-      last_name: Dutta Chowdhury
-      name: Koel Dutta Chowdhury
-      username: ~Koel_Dutta_Chowdhury2
-    - emails: elkheiryassine0@gmail.com
-      first_name: Yassine
-      google_scholar_id: https://scholar.google.com/citations?user=KATQHwgAAAAJ&hl=en
-      institution: German Research Center for AI
-      last_name: El Kheir
-      name: Yassine El Kheir
-      username: ~Yassine_El_Kheir1
-    - dblp_id: https://dblp.org/pid/247/4927
-      emails: 4mekki4@gmail.com
-      first_name: Abdellah
-      google_scholar_id: https://scholar.google.com/citations?user=0hheG2YAAAAJ&hl=en
-      institution: Mohamed bin Zayed University of Artificial Intelligence
-      last_name: El Mekki
-      name: Abdellah EL MEKKI
-      semantic_scholar_id: https://www.semanticscholar.org/author/Abdellah-El-Mekki/150911972
-      username: ~Abdellah_EL_MEKKI1
-    - dblp_id: https://dblp.org/pid/358/4477
-      emails: senkang.forest@my.cityu.edu.hk
-      first_name: Senkang
-      homepage: https://bmithbs.github.io/
-      last_name: Hu
-      name: Senkang Hu
-      username: ~Senkang_Hu2
-    - emails: yusif.ibrahimov@york.ac.uk
-      first_name: Yusif
-      google_scholar_id: https://scholar.google.com/citations?user=SKFMlHoAAAAJ&hl=en
-      last_name: Ibrahimov
-      name: Yusif Ibrahimov
-      username: ~Yusif_Ibrahimov1
-    - emails: mironshohinomjon@gmail.com
-      first_name: Mironshoh
-      last_name: Inomjonov
-      name: Mironshoh Inomjonov
-      username: ~Mironshoh_Inomjonov1
-    - emails: jafar.isbarov@gwmail.gwu.edu
-      first_name: Jafar
-      last_name: Isbarov
-      name: Jafar Isbarov
-      orcid: https://orcid.org/0000-0001-8404-2192
-      username: ~Jafar_Isbarov1
-    - emails: ainazj1@umbc.edu
-      first_name: Ainaz
-      google_scholar_id: https://scholar.google.com/citations?user=QqbC5FEAAAAJ&hl=en
-      homepage: https://ajam74001.github.io/
-      last_name: Jamshidi
-      name: Ainaz Jamshidi
-      username: ~Ainaz_Jamshidi1
-    - emails: jiby.phd2102@iiitkottayam.ac.in
-      first_name: Jiby
-      google_scholar_id: https://scholar.google.com/citations?user=UPYmWtYAAAAJ&hl=hi
-      homepage: https://www.researchgate.net/profile/Jiby-Jose-3
-      last_name: Jose
-      middle_name: Mariya
-      name: JIBY MARIYA JOSE
-      orcid: https://orcid.org/0000-0003-4572-2966
-      username: ~JIBY_MARIYA_JOSE2
-    - emails: zk299@nyu.edu
-      first_name: Zhengjian
-      google_scholar_id: https://scholar.google.com/citations?user=pCsu7OkAAAAJ&hl=en
-      last_name: Kang
-      name: Zhengjian Kang
-      orcid: https://orcid.org/0009-0003-1680-9496
-      username: ~Zhengjian_Kang1
-    - dblp_id: https://dblp.org/pid/318/7753
-      emails: kangyixiao999@gmail.com
-      first_name: Yixiao
-      google_scholar_id: https://scholar.google.com/citations?user=RiniTd0AAAAJ&hl=en
-      homepage: https://yixiaokang.editorx.io/site
-      last_name: Kang
-      name: Yixiao Kang
-      username: ~Yixiao_Kang1
-    - dblp_id: https://dblp.org/pid/159/0315
-      emails: klamm@uni-mannheim.de
-      first_name: Christopher
-      institution: Universität Mannheim
-      last_name: Klamm
-      name: Christopher Klamm
-      semantic_scholar_id: https://www.semanticscholar.org/author/Christopher-Klamm/2476247
-      username: ~Christopher_Klamm1
-    - dblp_id: https://dblp.org/pid/304/7533
-      emails: prashant.kodali@research.iiit.ac.in
-      first_name: Prashant
-      google_scholar_id: https://scholar.google.com/citations?user=pqQEpBgAAAAJ&hl=en
-      institution: International Institute of Information Technology Hyderabad
-      last_name: Kodali
-      name: Prashant Kodali
-      semantic_scholar_id: https://www.semanticscholar.org/author/Prashant-Kodali/2101317204
-      username: ~Prashant_Kodali1
-    - dblp_id: https://dblp.org/pid/218/7160
-      emails: harishkrishna.94@gmail.com
-      first_name: Harish
-      institution: Wayfair
-      last_name: Krishna
-      name: Harish Krishna
-      username: ~Harish_Krishna1
-    - emails: hongzhi.kuai@gmail.com
-      first_name: Hongzhi
-      google_scholar_id: https://scholar.google.com/citations?user=6rWx_xcAAAAJ&hl=en
-      last_name: Kuai
-      name: Hongzhi Kuai
-      orcid: https://orcid.org/0000-0002-2746-648X
-      semantic_scholar_id: https://www.semanticscholar.org/author/Hongzhi-Kuai/3465819
-      username: ~Hongzhi_Kuai1
-    - emails: senyu.li@mila.quebec
-      first_name: Senyu
-      google_scholar_id: https://scholar.google.com/citations?user=lyhV_fgAAAAJ
-      last_name: Li
-      name: Senyu Li
-      username: ~Senyu_Li1
-    - dblp_id: https://dblp.org/pid/349/5036
-      emails: yueqian.lin@duke.edu
-      first_name: Yueqian
-      google_scholar_id: https://scholar.google.com/citations?user=X5TIJzUAAAAJ
-      homepage: https://www.yueqianlin.com
-      institution: Duke University
-      last_name: Lin
-      name: Yueqian Lin
-      orcid: https://orcid.org/0000-0003-1473-8981
-      username: ~Yueqian_Lin2
-    - emails: wliu9@memphis.edu
-      first_name: Weisi
-      institution: University of Memphis
-      last_name: Liu
-      name: Weisi Liu
-      orcid: https://orcid.org/0009-0004-8016-7587
-      username: ~Weisi_Liu1
-    - emails: pranita.mahajan@gmail.com
-      first_name: Pranita
-      last_name: Mahajan
-      middle_name: Yogesh
-      name: PRANITA Yogesh Mahajan
-      orcid: https://orcid.org/0000-0002-6207-0181
-      username: ~PRANITA_Yogesh_Mahajan2
-    - emails: evans.makori@stud.th-deg.de
-      first_name: Evans
-      homepage: https://evansmakori.carrd.co/
-      institution: Technische Hochschule Deggendorf and Catholic Medical Mission Board
-      last_name: Makori
-      middle_name: Moitui
-      name: Evans Moitui Makori
-      username: ~Evans_Moitui_Makori1
-    - emails: y.meng@uva.nl
-      first_name: Yan
-      homepage: https://yanmeng-nlp.com/
-      last_name: Meng
-      name: Yan Meng
-      username: ~Yan_Meng3
-    - dblp_id: https://dblp.org/pid/261/2924
-      emails: nimshispacevenkat@gmail.com
-      first_name: Nimshi Venkat
-      google_scholar_id: https://scholar.google.com/citations?user=Tm9El8IAAAAJ&hl=en
-      institution: Research, Microsoft
-      last_name: Meripo
-      name: Nimshi Venkat Meripo
-      semantic_scholar_id: https://www.semanticscholar.org/author/Nimshi-Venkat-Meripo/1566528965
-      username: ~Nimshi_Venkat_Meripo1
-    - emails: moselim@hawaii.edu
-      first_name: Moseli
-      google_scholar_id: https://scholar.google.com/citations?user=kxa1cKgAAAAJ&hl=en
-      homepage: https://deepsmoseli.github.io/
-      last_name: Mots'oehli
-      name: Moseli Mots'oehli
-      orcid: https://orcid.org/0000-0002-9191-0565
-      username: ~Moseli_Mots'oehli1
-    - emails: muhammad.nadim@unipegaso.it
-      first_name: Muhammad
-      google_scholar_id: https://scholar.google.com/citations?user=t7dPRZwAAAAJ&hl=en
-      homepage: https://muhammad-amin-nadim.github.io/
-      last_name: Nadim
-      middle_name: Amin
-      name: MUHAMMAD AMIN NADIM
-      orcid: https://orcid.org/0000-0001-5106-0220
-      username: ~MUHAMMAD_AMIN_NADIM1
-    - emails: usmannawaz065@gmail.com
-      first_name: Usman
-      google_scholar_id: https://scholar.google.com/citations?user=7lmBz2gAAAAJ&hl=en
-      institution: University of Palermo
-      last_name: Nawaz
-      name: Usman Nawaz
-      username: ~Usman_Nawaz1
-    - emails: eoduntan@aimsammi.org
-      first_name: Esther
-      google_scholar_id: https://scholar.google.com/citations?user=G0lNbo0AAAAJ&hl
-      last_name: Oduntan
-      middle_name: Odunayo
-      name: Esther Odunayo Oduntan
-      orcid: https://orcid.org/0000-0003-3522-0356
-      username: ~Esther_Odunayo_Oduntan1
-    - emails: perohue101@gmail.com
-      first_name: Peter
-      homepage: https://sites.google.com/view/peter-ohue
-      last_name: Ohue
-      middle_name: Oseghale
-      name: Peter Oseghale Ohue
-      username: ~Peter_Oseghale_Ohue1
-    - emails: yewande.ojo@du.edu
-      first_name: Yewande
-      institution: University of Denver
-      last_name: Ojo
-      name: Yewande Ojo
-      username: ~Yewande_Ojo1
-    - emails: onose75@gmail.com
-      first_name: Ejiro
-      last_name: Onose
-      name: Ejiro Onose
-      username: ~Ejiro_Onose1
-    - emails: cpalenmichel@brandeis.edu
-      first_name: Chester
-      google_scholar_id: https://scholar.google.com/citations?user=vNaCVL0AAAAJ&hl=en&authuser=1
-      homepage: https://cpalenmichel.github.io
-      last_name: Palen-Michel
-      name: Chester Palen-Michel
-      semantic_scholar_id: https://www.semanticscholar.org/author/Chester-Palen-Michel/1414156453
-      username: ~Chester_Palen-Michel1
-    - emails: uditaspatel@gmail.com
-      first_name: Udita
-      google_scholar_id: https://scholar.google.com/citations?hl=en&user=lMp_sa0AAAAJ
-      last_name: Patel
-      name: Udita Patel
-      username: ~Udita_Patel1
-    - emails: shaibalsaha@oakland.edu
-      first_name: Shaibal
-      google_scholar_id: https://scholar.google.co.in/citations?hl=en&user=B1OTj-sAAAAJ
-      homepage: https://shaibal13.github.io/
-      institution: Oakland University
-      last_name: Saha
-      name: Shaibal Saha
-      orcid: https://orcid.org/0009-0003-5065-1581
-      username: ~Shaibal_Saha1
-    - emails: shubhamshkl@gmail.com
-      first_name: Shubham
-      homepage: https://sites.google.com/site/aboutshukla/home
-      institution: Nordstrom
-      last_name: Shukla
-      name: Shubham Shukla
-      username: ~Shubham_Shukla3
-    - emails: janetysung@gmail.com
-      first_name: Janet
-      institution: Google
-      last_name: Sung
-      middle_name: Yunchen
-      name: Janet Yunchen Sung
-      username: ~Janet_Yunchen_Sung1
-    - dblp_id: https://dblp.org/pid/288/2453.html
-      emails: jonnesaleva@brandeis.edu
-      first_name: Jonne
-      google_scholar_id: https://scholar.google.com/citations?user=01JoCDoAAAAJ&hl=en&oi=ao
-      homepage: https://www.jonnesaleva.com
-      institution: Brandeis University
-      last_name: Sälevä
-      name: Jonne Sälevä
-      semantic_scholar_id: https://www.semanticscholar.org/author/Jonne-Saleva/1724714290
-      username: ~Jonne_Sälevä1
-    - emails: mc45143@um.edu.mo
-      first_name: Wenjia
-      homepage: https://www.linkedin.com/in/wenjia-tan-4126b9154/
-      institution: University of Macau
-      last_name: Tan
-      name: Wenjia Tan
-      username: ~Wenjia_Tan1
-    - dblp_id: https://dblp.org/pid/336/3005
-      emails: shaomu.tan.edu@gmail.com
-      first_name: Shaomu
-      homepage: https://smu-tan.github.io/
-      institution: University of Amsterdam
-      last_name: Tan
-      name: Shaomu Tan
-      username: ~Shaomu_Tan1
-    - emails: yihangtao2-c@my.cityu.edu.hk
-      first_name: Yihang
-      homepage: https://yihangtao.github.io/
-      last_name: Tao
-      name: Yihang Tao
-      username: ~Yihang_Tao1
-    - dblp_id: https://dblp.uni-trier.de/pers/hd/t/Thakur:Shailja
-      emails: s7thakur@uwaterloo.ca
-      first_name: Shailja
-      homepage: https://uwaterloo.ca/embedded-software-group/people-profiles/shailja-thakur
-      last_name: Thakur
-      name: Shailja Thakur
-      username: ~Shailja_Thakur1
-    - emails: vvajratiya@gmail.com
-      first_name: Vajratiya
-      google_scholar_id: https://scholar.google.co.in/citations?user=aXHZ4g4AAAAJ&hl=en
-      homepage: https://scholar.google.co.in/citations?user=aXHZ4g4AAAAJ&hl=en
-      last_name: Vajrobol
-      name: Vajratiya Vajrobol
-      username: ~Vajratiya_Vajrobol1
-    - emails: deepaliverma.rs.cse19@itbhu.ac.in
-      first_name: Deepali
-      last_name: Verma
-      name: Deepali Verma
-      orcid: https://orcid.org/0000-0002-7916-8441
-      username: ~Deepali_Verma1
-    - emails: sahildatascholar@gmail.com
-      first_name: Sahil
-      google_scholar_id: https://scholar.google.com/citations?user=yGs6FA0AAAAJ&hl=en
-      institution: Syracuse University
-      last_name: Walia
-      name: Sahil Walia
-      username: ~Sahil_Walia1
-    - dblp_id: https://dblp.org/pid/346/0484
-      emails: azminetoushik.wasi@gmail.com
-      first_name: Azmine Toushik
-      google_scholar_id: https://scholar.google.com/citations?user=X3gRvogAAAAJ&hl=en
-      homepage: https://azminewasi.github.io
-      last_name: Wasi
-      name: Azmine Toushik Wasi
-      orcid: https://orcid.org/0000-0001-9509-5804
-      semantic_scholar_id: https://www.semanticscholar.org/author/Azmine-Toushik-Wasi/2215887932
-      username: ~Azmine_Toushik_Wasi1
-    - emails: wsl24@mails.tsinghua.edu.cn
-      first_name: Song-Li
-      google_scholar_id: https://scholar.google.com.hk/citations?user=1zICPuAAAAAJ&hl=zh-CN&oi=ao
-      homepage: https://github.com/yansuoyuli
-      last_name: Wu
-      name: Song-Li Wu
-      username: ~Song-Li_Wu1
-    - dblp_id: https://dblp.org/rec/conf/emnlp/WuDLX20
-      emails: d.wu@uva.nl
-      first_name: Di
-      google_scholar_id: https://scholar.google.com/citations?user=OyhaeJQAAAAJ&hl=en
-      homepage: https://moore3930.github.io/
-      institution: University of Amsterdam
-      last_name: Wu
-      name: Di Wu
-      semantic_scholar_id: https://www.semanticscholar.org/author/Di-Wu/1405871902
-      username: ~Di_Wu8
-    - emails: yingzonghao20@mails.ucas.ac.cn
-      first_name: Zonghao
-      homepage: https://elwood.me/
-      last_name: Ying
-      name: Zonghao Ying
-      username: ~Zonghao_Ying1
-    - dblp_id: https://dblp.org/pid/279/2713
-      emails: maider030@gmail.com
-      first_name: Dokyoon
-      homepage: https://github.com/leeloolee
-      last_name: Yoon
-      name: Dokyoon Yoon
-      username: ~Dokyoon_Yoon1
-    - emails: zhehao.zhang.gr@dartmouth.edu
-      first_name: Zhehao
-      google_scholar_id: https://scholar.google.com/citations?user=QG-BAGwAAAAJ&hl=en
-      homepage: https://zzh-sjtu.github.io/zhehaozhang.github.io/
-      institution: Dartmouth College
-      last_name: Zhang
-      name: Zhehao Zhang
-      username: ~Zhehao_Zhang1
-    - dblp_id: https://dblp.org/pid/79/8077
-      emails: xfz.zhao@gmail.com
-      first_name: Xufeng
-      google_scholar_id: https://scholar.google.com/citations?user=sLwQ22MAAAAJ&hl=en
-      homepage: https://xf-zhao.github.io/
-      last_name: Zhao
-      name: Xufeng Zhao
-      orcid: https://orcid.org/0009-0001-6972-5048
-      username: ~Xufeng_Zhao1
-    - dblp_id: https://dblp.org/pid/200/2171
-      emails: zhouziqi@hust.edu.cn
-      first_name: Ziqi
-      google_scholar_id: https://scholar.google.com/citations?user=-eyLn4wAAAAJ&hl=zh-CN
-      homepage: https://www.linkedin.cn/injobs/in/ziqi-zhou-54b02b223
-      last_name: Zhou
-      name: Ziqi Zhou
-      username: ~Ziqi_Zhou2
-    - dblp_id: https://dblp.org/pid/368/3214
-      emails: h.zhou24@imperial.ac.uk
-      first_name: Huichi
-      google_scholar_id: https://scholar.google.com/citations?user=1IJyxpUAAAAJ&hl=en&oi=ao
-      homepage: https://huichizhou.github.io/
-      last_name: Zhou
-      name: Huichi Zhou
-      orcid: https://orcid.org/0000-0002-1518-504X
-      semantic_scholar_id: https://www.semanticscholar.org/author/Huichi-Zhou/2283313383
-      username: ~Huichi_Zhou2
+  - dblp_id: https://dblp.org/pid/230/6973
+    emails: davlanade@gmail.com
+    first_name: David
+    google_scholar_id: https://scholar.google.ca/citations?user=W9sTkS0AAAAJ&hl=en
+    homepage: https://dadelani.github.io/
+    last_name: Adelani
+    middle_name: Ifeoluwa
+    name: David Ifeoluwa Adelani
+    orcid: https://orcid.org/0000-0002-0193-2083
+    semantic_scholar_id: https://www.semanticscholar.org/author/D.-Adelani/2518906
+    username: ~David_Ifeoluwa_Adelani1
+  - emails: manuelamankwatia@gmail.com
+    first_name: Manuel
+    last_name: Amankwatia
+    middle_name: Bobie
+    name: Manuel Bobie Amankwatia
+    username: ~Manuel_Bobie_Amankwatia1
+  - emails: ccarnett@ucsd.edu
+    first_name: Catherine
+    google_scholar_id: https://scholar.google.com/citations?user=bLS_8RAAAAAJ&hl=en
+    homepage: https://catherinearnett.github.io/
+    last_name: Arnett
+    name: Catherine Arnett
+    orcid: https://orcid.org/0000-0003-0448-5415
+    username: ~Catherine_Arnett1
+  - emails: tbartley@nvidia.com
+    first_name: Travis
+    google_scholar_id: https://scholar.google.com/citations?user=nPAeuRMAAAAJ&hl=en
+    institution: NVIDIA and City University of New York
+    last_name: Bartley
+    middle_name: M.
+    name: Travis M. Bartley
+    username: ~Travis_M._Bartley1
+  - emails: vishal.bhalla@tum.de
+    first_name: Vishal
+    google_scholar_id: https://scholar.google.co.in/citations?user=uirl4DkAAAAJ&hl=en
+    last_name: Bhalla
+    name: Vishal Bhalla
+    username: ~Vishal_Bhalla1
+  - emails: jc12020@nyu.edu
+    first_name: Jiajing
+    google_scholar_id: https://scholar.google.com/citations?user=NH6gFZ8AAAAJ&hl=en
+    last_name: Chen
+    name: Jiajing Chen
+    username: ~Jiajing_Chen2
+  - emails: xc1490@nyu.edu
+    first_name: Xupeng
+    google_scholar_id: https://scholar.google.com/citations?user=d3HfTOsAAAAJ&hl=en
+    homepage: https://www.cmwonderland.com/
+    institution: New York University
+    last_name: Chen
+    name: Xupeng Chen
+    username: ~Xupeng_Chen1
+  - emails: olutosoyetaiwo1@gmail.com
+    first_name: Olutosoye
+    google_scholar_id: https://scholar.google.com/citations?user=DBBYkOgAAAAJ&hl=en
+    institution: Afe Babalola University
+    last_name: Christian
+    middle_name: Taiwo
+    name: OLUTOSOYE TAIWO CHRISTIAN
+    username: ~OLUTOSOYE_TAIWO_CHRISTIAN1
+  - emails: zcc6@cornell.edu
+    first_name: Zoltan
+    google_scholar_id: https://scholar.google.com/citations?user=_Hh92vUAAAAJ&hl=en&oi=sra
+    institution: Sambanova Systems
+    last_name: Csaki
+    name: Zoltan Csaki
+    username: ~Zoltan_Csaki1
+  - dblp_id: https://dblp.org/pid/314/6525.html
+    emails: konstantin.dobler@hpi.de
+    first_name: Konstantin
+    google_scholar_id: https://scholar.google.com/citations?user=fJEat40AAAAJ
+    homepage: https://konstantindobler.me
+    institution: Hasso Plattner Institute
+    last_name: Dobler
+    name: Konstantin Dobler
+    semantic_scholar_id: https://www.semanticscholar.org/author/Konstantin-Dobler/2156114269
+    username: ~Konstantin_Dobler1
+  - dblp_id: https://dblp.org/pid/205/8970.html
+    emails: koeldc@lst.uni-saarland.de
+    first_name: Koel
+    google_scholar_id: https://scholar.google.com/citations?user=t5TOnGkAAAAJ&hl=en
+    last_name: Dutta Chowdhury
+    name: Koel Dutta Chowdhury
+    username: ~Koel_Dutta_Chowdhury2
+  - emails: elkheiryassine0@gmail.com
+    first_name: Yassine
+    google_scholar_id: https://scholar.google.com/citations?user=KATQHwgAAAAJ&hl=en
+    institution: German Research Center for AI
+    last_name: El Kheir
+    name: Yassine El Kheir
+    username: ~Yassine_El_Kheir1
+  - dblp_id: https://dblp.org/pid/247/4927
+    emails: 4mekki4@gmail.com
+    first_name: Abdellah
+    google_scholar_id: https://scholar.google.com/citations?user=0hheG2YAAAAJ&hl=en
+    institution: Mohamed bin Zayed University of Artificial Intelligence
+    last_name: El Mekki
+    name: Abdellah EL MEKKI
+    semantic_scholar_id: https://www.semanticscholar.org/author/Abdellah-El-Mekki/150911972
+    username: ~Abdellah_EL_MEKKI1
+  - dblp_id: https://dblp.org/pid/358/4477
+    emails: senkang.forest@my.cityu.edu.hk
+    first_name: Senkang
+    homepage: https://bmithbs.github.io/
+    last_name: Hu
+    name: Senkang Hu
+    username: ~Senkang_Hu2
+  - emails: yusif.ibrahimov@york.ac.uk
+    first_name: Yusif
+    google_scholar_id: https://scholar.google.com/citations?user=SKFMlHoAAAAJ&hl=en
+    last_name: Ibrahimov
+    name: Yusif Ibrahimov
+    username: ~Yusif_Ibrahimov1
+  - emails: mironshohinomjon@gmail.com
+    first_name: Mironshoh
+    last_name: Inomjonov
+    name: Mironshoh Inomjonov
+    username: ~Mironshoh_Inomjonov1
+  - emails: jafar.isbarov@gwmail.gwu.edu
+    first_name: Jafar
+    last_name: Isbarov
+    name: Jafar Isbarov
+    orcid: https://orcid.org/0000-0001-8404-2192
+    username: ~Jafar_Isbarov1
+  - emails: ainazj1@umbc.edu
+    first_name: Ainaz
+    google_scholar_id: https://scholar.google.com/citations?user=QqbC5FEAAAAJ&hl=en
+    homepage: https://ajam74001.github.io/
+    last_name: Jamshidi
+    name: Ainaz Jamshidi
+    username: ~Ainaz_Jamshidi1
+  - emails: jiby.phd2102@iiitkottayam.ac.in
+    first_name: Jiby
+    google_scholar_id: https://scholar.google.com/citations?user=UPYmWtYAAAAJ&hl=hi
+    homepage: https://www.researchgate.net/profile/Jiby-Jose-3
+    last_name: Jose
+    middle_name: Mariya
+    name: JIBY MARIYA JOSE
+    orcid: https://orcid.org/0000-0003-4572-2966
+    username: ~JIBY_MARIYA_JOSE2
+  - emails: zk299@nyu.edu
+    first_name: Zhengjian
+    google_scholar_id: https://scholar.google.com/citations?user=pCsu7OkAAAAJ&hl=en
+    last_name: Kang
+    name: Zhengjian Kang
+    orcid: https://orcid.org/0009-0003-1680-9496
+    username: ~Zhengjian_Kang1
+  - dblp_id: https://dblp.org/pid/318/7753
+    emails: kangyixiao999@gmail.com
+    first_name: Yixiao
+    google_scholar_id: https://scholar.google.com/citations?user=RiniTd0AAAAJ&hl=en
+    homepage: https://yixiaokang.editorx.io/site
+    last_name: Kang
+    name: Yixiao Kang
+    username: ~Yixiao_Kang1
+  - dblp_id: https://dblp.org/pid/159/0315
+    emails: klamm@uni-mannheim.de
+    first_name: Christopher
+    institution: "Universit\xE4t Mannheim"
+    last_name: Klamm
+    name: Christopher Klamm
+    semantic_scholar_id: https://www.semanticscholar.org/author/Christopher-Klamm/2476247
+    username: ~Christopher_Klamm1
+  - emails: hongzhi.kuai@gmail.com
+    first_name: Hongzhi
+    google_scholar_id: https://scholar.google.com/citations?user=6rWx_xcAAAAJ&hl=en
+    last_name: Kuai
+    name: Hongzhi Kuai
+    orcid: https://orcid.org/0000-0002-2746-648X
+    semantic_scholar_id: https://www.semanticscholar.org/author/Hongzhi-Kuai/3465819
+    username: ~Hongzhi_Kuai1
+  - emails: senyu.li@mila.quebec
+    first_name: Senyu
+    google_scholar_id: https://scholar.google.com/citations?user=lyhV_fgAAAAJ
+    last_name: Li
+    name: Senyu Li
+    username: ~Senyu_Li1
+  - dblp_id: https://dblp.org/pid/349/5036
+    emails: yueqian.lin@duke.edu
+    first_name: Yueqian
+    google_scholar_id: https://scholar.google.com/citations?user=X5TIJzUAAAAJ
+    homepage: https://www.yueqianlin.com
+    institution: Duke University
+    last_name: Lin
+    name: Yueqian Lin
+    orcid: https://orcid.org/0000-0003-1473-8981
+    username: ~Yueqian_Lin2
+  - emails: wliu9@memphis.edu
+    first_name: Weisi
+    institution: University of Memphis
+    last_name: Liu
+    name: Weisi Liu
+    orcid: https://orcid.org/0009-0004-8016-7587
+    username: ~Weisi_Liu1
+  - emails: pranita.mahajan@gmail.com
+    first_name: Pranita
+    last_name: Mahajan
+    middle_name: Yogesh
+    name: PRANITA Yogesh Mahajan
+    orcid: https://orcid.org/0000-0002-6207-0181
+    username: ~PRANITA_Yogesh_Mahajan2
+  - dblp_id: https://dblp.org/pid/261/2924
+    emails: nimshispacevenkat@gmail.com
+    first_name: Nimshi Venkat
+    google_scholar_id: https://scholar.google.com/citations?user=Tm9El8IAAAAJ&hl=en
+    institution: Research, Microsoft
+    last_name: Meripo
+    name: Nimshi Venkat Meripo
+    semantic_scholar_id: https://www.semanticscholar.org/author/Nimshi-Venkat-Meripo/1566528965
+    username: ~Nimshi_Venkat_Meripo1
+  - emails: muhammad.nadim@unipegaso.it
+    first_name: Muhammad
+    google_scholar_id: https://scholar.google.com/citations?user=t7dPRZwAAAAJ&hl=en
+    homepage: https://muhammad-amin-nadim.github.io/
+    last_name: Nadim
+    middle_name: Amin
+    name: MUHAMMAD AMIN NADIM
+    orcid: https://orcid.org/0000-0001-5106-0220
+    username: ~MUHAMMAD_AMIN_NADIM1
+  - emails: usmannawaz065@gmail.com
+    first_name: Usman
+    google_scholar_id: https://scholar.google.com/citations?user=7lmBz2gAAAAJ&hl=en
+    institution: University of Palermo
+    last_name: Nawaz
+    name: Usman Nawaz
+    username: ~Usman_Nawaz1
+  - emails: eoduntan@aimsammi.org
+    first_name: Esther
+    google_scholar_id: https://scholar.google.com/citations?user=G0lNbo0AAAAJ&hl
+    last_name: Oduntan
+    middle_name: Odunayo
+    name: Esther Odunayo Oduntan
+    orcid: https://orcid.org/0000-0003-3522-0356
+    username: ~Esther_Odunayo_Oduntan1
+  - emails: perohue101@gmail.com
+    first_name: Peter
+    homepage: https://sites.google.com/view/peter-ohue
+    last_name: Ohue
+    middle_name: Oseghale
+    name: Peter Oseghale Ohue
+    username: ~Peter_Oseghale_Ohue1
+  - emails: yewande.ojo@du.edu
+    first_name: Yewande
+    institution: University of Denver
+    last_name: Ojo
+    name: Yewande Ojo
+    username: ~Yewande_Ojo1
+  - emails: cpalenmichel@brandeis.edu
+    first_name: Chester
+    google_scholar_id: https://scholar.google.com/citations?user=vNaCVL0AAAAJ&hl=en&authuser=1
+    homepage: https://cpalenmichel.github.io
+    last_name: Palen-Michel
+    name: Chester Palen-Michel
+    semantic_scholar_id: https://www.semanticscholar.org/author/Chester-Palen-Michel/1414156453
+    username: ~Chester_Palen-Michel1
+  - emails: shaibalsaha@oakland.edu
+    first_name: Shaibal
+    google_scholar_id: https://scholar.google.co.in/citations?hl=en&user=B1OTj-sAAAAJ
+    homepage: https://shaibal13.github.io/
+    institution: Oakland University
+    last_name: Saha
+    name: Shaibal Saha
+    orcid: https://orcid.org/0009-0003-5065-1581
+    username: ~Shaibal_Saha1
+  - emails: shubhamshkl@gmail.com
+    first_name: Shubham
+    homepage: https://sites.google.com/site/aboutshukla/home
+    institution: Nordstrom
+    last_name: Shukla
+    name: Shubham Shukla
+    username: ~Shubham_Shukla3
+  - emails: janetysung@gmail.com
+    first_name: Janet
+    institution: Google
+    last_name: Sung
+    middle_name: Yunchen
+    name: Janet Yunchen Sung
+    username: ~Janet_Yunchen_Sung1
+  - dblp_id: https://dblp.org/pid/288/2453.html
+    emails: jonnesaleva@brandeis.edu
+    first_name: Jonne
+    google_scholar_id: https://scholar.google.com/citations?user=01JoCDoAAAAJ&hl=en&oi=ao
+    homepage: https://www.jonnesaleva.com
+    institution: Brandeis University
+    last_name: "S\xE4lev\xE4"
+    name: "Jonne S\xE4lev\xE4"
+    semantic_scholar_id: https://www.semanticscholar.org/author/Jonne-Saleva/1724714290
+    username: "~Jonne_S\xE4lev\xE41"
+  - emails: mc45143@um.edu.mo
+    first_name: Wenjia
+    homepage: https://www.linkedin.com/in/wenjia-tan-4126b9154/
+    institution: University of Macau
+    last_name: Tan
+    name: Wenjia Tan
+    username: ~Wenjia_Tan1
+  - dblp_id: https://dblp.org/pid/336/3005
+    emails: shaomu.tan.edu@gmail.com
+    first_name: Shaomu
+    homepage: https://smu-tan.github.io/
+    institution: University of Amsterdam
+    last_name: Tan
+    name: Shaomu Tan
+    username: ~Shaomu_Tan1
+  - emails: yihangtao2-c@my.cityu.edu.hk
+    first_name: Yihang
+    homepage: https://yihangtao.github.io/
+    last_name: Tao
+    name: Yihang Tao
+    username: ~Yihang_Tao1
+  - dblp_id: https://dblp.uni-trier.de/pers/hd/t/Thakur:Shailja
+    emails: s7thakur@uwaterloo.ca
+    first_name: Shailja
+    homepage: https://uwaterloo.ca/embedded-software-group/people-profiles/shailja-thakur
+    last_name: Thakur
+    name: Shailja Thakur
+    username: ~Shailja_Thakur1
+  - emails: vvajratiya@gmail.com
+    first_name: Vajratiya
+    google_scholar_id: https://scholar.google.co.in/citations?user=aXHZ4g4AAAAJ&hl=en
+    homepage: https://scholar.google.co.in/citations?user=aXHZ4g4AAAAJ&hl=en
+    last_name: Vajrobol
+    name: Vajratiya Vajrobol
+    username: ~Vajratiya_Vajrobol1
+  - emails: deepaliverma.rs.cse19@itbhu.ac.in
+    first_name: Deepali
+    last_name: Verma
+    name: Deepali Verma
+    orcid: https://orcid.org/0000-0002-7916-8441
+    username: ~Deepali_Verma1
+  - emails: sahildatascholar@gmail.com
+    first_name: Sahil
+    google_scholar_id: https://scholar.google.com/citations?user=yGs6FA0AAAAJ&hl=en
+    institution: Syracuse University
+    last_name: Walia
+    name: Sahil Walia
+    username: ~Sahil_Walia1
+  - dblp_id: https://dblp.org/pid/346/0484
+    emails: azminetoushik.wasi@gmail.com
+    first_name: Azmine Toushik
+    google_scholar_id: https://scholar.google.com/citations?user=X3gRvogAAAAJ&hl=en
+    homepage: https://azminewasi.github.io
+    last_name: Wasi
+    name: Azmine Toushik Wasi
+    orcid: https://orcid.org/0000-0001-9509-5804
+    semantic_scholar_id: https://www.semanticscholar.org/author/Azmine-Toushik-Wasi/2215887932
+    username: ~Azmine_Toushik_Wasi1
+  - dblp_id: https://dblp.org/rec/conf/emnlp/WuDLX20
+    emails: d.wu@uva.nl
+    first_name: Di
+    google_scholar_id: https://scholar.google.com/citations?user=OyhaeJQAAAAJ&hl=en
+    homepage: https://moore3930.github.io/
+    institution: University of Amsterdam
+    last_name: Wu
+    name: Di Wu
+    semantic_scholar_id: https://www.semanticscholar.org/author/Di-Wu/1405871902
+    username: ~Di_Wu8
+  - emails: zhehao.zhang.gr@dartmouth.edu
+    first_name: Zhehao
+    google_scholar_id: https://scholar.google.com/citations?user=QG-BAGwAAAAJ&hl=en
+    homepage: https://zzh-sjtu.github.io/zhehaozhang.github.io/
+    institution: Dartmouth College
+    last_name: Zhang
+    name: Zhehao Zhang
+    username: ~Zhehao_Zhang1
+  - dblp_id: https://dblp.org/pid/79/8077
+    emails: xfz.zhao@gmail.com
+    first_name: Xufeng
+    google_scholar_id: https://scholar.google.com/citations?user=sLwQ22MAAAAJ&hl=en
+    homepage: https://xf-zhao.github.io/
+    last_name: Zhao
+    name: Xufeng Zhao
+    orcid: https://orcid.org/0009-0001-6972-5048
+    username: ~Xufeng_Zhao1
+  - dblp_id: https://dblp.org/pid/200/2171
+    emails: zhouziqi@hust.edu.cn
+    first_name: Ziqi
+    google_scholar_id: https://scholar.google.com/citations?user=-eyLn4wAAAAJ&hl=zh-CN
+    homepage: https://www.linkedin.cn/injobs/in/ziqi-zhou-54b02b223
+    last_name: Zhou
+    name: Ziqi Zhou
+    username: ~Ziqi_Zhou2
+  - dblp_id: https://dblp.org/pid/368/3214
+    emails: h.zhou24@imperial.ac.uk
+    first_name: Huichi
+    google_scholar_id: https://scholar.google.com/citations?user=1IJyxpUAAAAJ&hl=en&oi=ao
+    homepage: https://huichizhou.github.io/
+    last_name: Zhou
+    name: Huichi Zhou
+    orcid: https://orcid.org/0000-0002-1518-504X
+    semantic_scholar_id: https://www.semanticscholar.org/author/Huichi-Zhou/2283313383
+    username: ~Huichi_Zhou2
+  - emails: sadiazaib22@gmail.com
+    first_name: Sadia
+    last_name: Zaib
+    name: Sadia Zaib
+    username: sadiazaib22@gmail.com
   role: Reviewers
   type: name_block
