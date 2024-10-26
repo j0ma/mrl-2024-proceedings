@@ -1,0 +1,65 @@
+- title: Opening Remarks
+  start_time: 2024-11-16T09:00:00
+  end_time: 2024-11-16T09:10:00
+  location: Workshop Room
+- title: Invited Talk by Karen Livescu
+  start_time: 2024-11-16T09:10:00
+  end_time: 2024-11-16T09:50:00
+  location: Workshop Room
+  speaker: Karen Livescu
+- title: Invited Talk by Hila Gonen
+  start_time: 2024-11-16T09:50:00
+  end_time: 2024-11-16T10:30:00
+  location: Workshop Room
+  speaker: Hila Gonen
+- title: Coffee Break
+  start_time: 2024-11-16T10:30:00
+  end_time: 2024-11-16T11:00:00
+  location: Break Area
+- title: Poster Session
+  start_time: 2024-11-16T11:00:00
+  end_time: 2024-11-16T12:30:00
+  location: Poster Hall
+- title: Lunch Break
+  start_time: 2024-11-16T12:30:00
+  end_time: 2024-11-16T14:00:00
+  location: Dining Area
+- title: Shared Task Session
+  start_time: 2024-11-16T14:00:00
+  end_time: 2024-11-16T14:30:00
+  location: Workshop Room
+  subsessions:
+    - title: Findings Paper
+      start_time: 2024-11-16T14:00:00
+      end_time: 2024-11-16T14:15:00
+      location: Workshop Room
+    - title: Winning Team Presentation
+      start_time: 2024-11-16T14:15:00
+      end_time: 2024-11-16T14:30:00
+      location: Workshop Room
+- title: Best Paper Session
+  start_time: 2024-11-16T14:30:00
+  end_time: 2024-11-16T15:30:00
+  location: Workshop Room
+  subsessions:
+    - title: Best Paper
+      start_time: 2024-11-16T14:30:00
+      end_time: 2024-11-16T15:00:00
+      location: Workshop Room
+    - title: Honorable Mentions
+      start_time: 2024-11-16T15:00:00
+      end_time: 2024-11-16T15:30:00
+      location: Workshop Room
+- title: Coffee Break
+  start_time: 2024-11-16T15:30:00
+  end_time: 2024-11-16T16:00:00
+  location: Break Area
+- title: Invited Talk by Sebastian Ruder
+  start_time: 2024-11-16T16:00:00
+  end_time: 2024-11-16T16:50:00
+  location: Workshop Room
+  speaker: Sebastian Ruder
+- title: Closing Remarks
+  start_time: 2024-11-16T16:50:00
+  end_time: 2024-11-16T17:00:00
+  location: Workshop Room
