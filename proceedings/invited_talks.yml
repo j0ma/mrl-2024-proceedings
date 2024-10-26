@@ -1,26 +1,17 @@
 - title: Invited talk 1
-  abstract_file: invited1.tex
   speaker_name: Karen Livescu
   institution: TTI at Chicago
   bio_file: invited1_bio.tex
-  date: 2024-11-16 10:00:00
-  location: Room 1
-  chair: Chair 1
+  date: 2024-11-16 9:10
 
 - title: Invited talk 2
-  abstract_file: invited2.tex
-  speaker_name: Sebastian Ruder
-  institution: Cohere for AI
-  bio_file: invited2_bio.tex
-  date: 2024-11-16 11:00:00
-  location: Room 2
-  chair: Chair 2
-
-- title: Invited talk 3
-  abstract_file: invited3.tex
   speaker_name: Hila Gonen
   institution: University of Washington
   bio_file: invited3_bio.tex
-  date: 2024-11-16 12:00:00
-  location: Room 3
-  chair: Chair 3
+  date: 2024-11-16 9:50
+
+- title: Invited talk 3
+  speaker_name: Sebastian Ruder
+  institution: Cohere for AI
+  bio_file: invited2_bio.tex
+  date: 2024-11-16 16:00
