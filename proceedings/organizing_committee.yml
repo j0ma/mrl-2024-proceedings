@@ -1,15 +1,26 @@
-- members:
-  - first_name: David
-    institution: McGill University, Canada
+- role: Organizers
+  members:
+  - first_name: David Ifeoluwa
     last_name: Adelani
-  role: General Chair
-- members:
+    institution: McGill University, Canada
+  - first_name: Duygu
+    last_name: Ataman
+    institution: New York University, USA
+  - first_name: Mammad
+    last_name: Hajili
+    institution: Microsoft, USA
+  - first_name: Raghav
+    last_name: Mantri
+    institution: New York University, USA
+  - first_name: David
+    last_name: Stap
+    institution: University of Amsterdam, Netherlands
   - first_name: Jonne
-    institution: Brandeis University, USA
     last_name: Sälevä
+    institution: Brandeis University, USA
+  - first_name: Francesco
+    last_name: Tinner
+    institution: University of Amsterdam, Netherlands
   - first_name: Abraham
-    institution: Ohio State University, USA
     last_name: Owodunni
-  role: Publication Chairs
-
-# TODO: add rest
+    institution: Ohio State University, USA
