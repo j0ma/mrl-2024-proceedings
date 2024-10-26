@@ -1,0 +1,17 @@
+title: The 4th Workshop on Multilingual Representation Learning
+start_time: 2024-11-16T09:00:00
+end_time: 2024-11-16T17:00:00
+location: 
+chair:
+  - name: David Ifeoluwa Adelani
+  - name: Duygu Ataman
+  - name: Mammad Hajili
+  - name: Raghav Mantri
+  - name: David Stap
+  - name: Jonne Sälevä
+  - name: Francesco Tinner
+  - name: Abraham Owodunni
+id: workshop_15
+url: https://sigtyp.github.io/ws2024-mrl.html
+abstract: |
+  The 4th Workshop on Multilingual Representation Learning workshop aims to bring together the research community consisting of scientists studying different aspects in representation learning in multilingual contexts, currently the most promising approach to improve the NLP in low-resource or underrepresented languages. The workshop also provides the rapidly growing number of researchers working on the topic an opportunity to present their work and exchange ideas.
