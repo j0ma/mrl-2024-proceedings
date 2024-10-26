@@ -92,43 +92,43 @@
   openreview_id: PXqkYMLRwt
   pdf_file: e6d5222510fa9a8b2f389e962063156892307489.pdf
   title: 'SambaLingo: Teaching Large Language Models New Languages'
-#- abstract: This paper investigates biases of Large Language Models (LLMs) through
-    #the lens of grammatical gender. Drawing inspiration from seminal works in psycholinguistics,
-    #particularly the study of gender's influence on language perception, we leverage
-    #multilingual LLMs to revisit and expand upon the foundational experiments of Boroditsky
-    #(2003). Employing LLMs as a novel method for examining psycholinguistic biases
-    #related to grammatical gender, we prompt a model to describe nouns with adjectives
-    #in various languages, focusing specifically on languages with grammatical gender.
-    #In particular, we look at adjective co-occurrences across gender and languages,
-    #and train a binary classifier to predict grammatical gender given adjectives an
-    #LLM uses to describe a noun. Surprisingly, we find that a simple classifier can
-    #not only predict noun gender above chance but also exhibit cross-language transferability.
-    #We show that while LLMs may describe words differently in different languages,
-    #they are biased similarly.
-  #attributes:
-    #paper_type: N/A
-    #presentation_type: N/A
-    #submitted_area: ''
-  #authors:
-  #- emails: viktor.mihaylov1304@gmail.com
-    #first_name: Viktor
-    #last_name: Mihaylov
-    #name: Viktor Mihaylov
-    #username: ~Viktor_Mihaylov1
-  #- dblp_id: https://dblp.org/pid/284/9612
-    #emails: suny@robots.ox.ac.uk
-    #first_name: Aleksandar
-    #google_scholar_id: https://scholar.google.com/citations?user=cGnonsQAAAAJ&hl=en
-    #last_name: Shtedritski
-    #name: Aleksandar Shtedritski
-    #username: ~Aleksandar_Shtedritski1
-  #decision: MRL
-  #file: 4.pdf
-  #id: 4
-  #openreview_id: EZDwcdL1h2
-  #pdf_file: 4decb3316daecaa98afca8c74e4268a7105794d5.pdf
-  #title: 'What an Elegant Bridge: Multilingual LLMs are Biased Similarly in Different
-    #Languages'
+- abstract: This paper investigates biases of Large Language Models (LLMs) through
+    the lens of grammatical gender. Drawing inspiration from seminal works in psycholinguistics,
+    particularly the study of gender's influence on language perception, we leverage
+    multilingual LLMs to revisit and expand upon the foundational experiments of Boroditsky
+    (2003). Employing LLMs as a novel method for examining psycholinguistic biases
+    related to grammatical gender, we prompt a model to describe nouns with adjectives
+    in various languages, focusing specifically on languages with grammatical gender.
+    In particular, we look at adjective co-occurrences across gender and languages,
+    and train a binary classifier to predict grammatical gender given adjectives an
+    LLM uses to describe a noun. Surprisingly, we find that a simple classifier can
+    not only predict noun gender above chance but also exhibit cross-language transferability.
+    We show that while LLMs may describe words differently in different languages,
+    they are biased similarly.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: viktor.mihaylov1304@gmail.com
+    first_name: Viktor
+    last_name: Mihaylov
+    name: Viktor Mihaylov
+    username: ~Viktor_Mihaylov1
+  - dblp_id: https://dblp.org/pid/284/9612
+    emails: suny@robots.ox.ac.uk
+    first_name: Aleksandar
+    google_scholar_id: https://scholar.google.com/citations?user=cGnonsQAAAAJ&hl=en
+    last_name: Shtedritski
+    name: Aleksandar Shtedritski
+    username: ~Aleksandar_Shtedritski1
+  decision: MRL
+  file: 4.pdf
+  id: 4
+  openreview_id: EZDwcdL1h2
+  pdf_file: 4decb3316daecaa98afca8c74e4268a7105794d5.pdf
+  title: 'What an Elegant Bridge: Multilingual LLMs are Biased Similarly in Different
+    Languages'
 - abstract: Despite advancements in English-dominant generative large language models,
     further development is needed for low-resource languages to enhance global accessibility.
     The primary methods for representing these languages are monolingual and multilingual
