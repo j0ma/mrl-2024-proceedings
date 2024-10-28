@@ -462,72 +462,74 @@
   openreview_id: Xi74bmSXTT
   pdf_file: 7d1450b6881446651edfe55aa1fcba5587743544.pdf
   title: 'Recipe for Zero-shot POS Tagging: Is It Useful in Realistic Scenarios?'
-#- abstract: 'While machine translation (MT) systems have seen significant improvements,
-    #it is still common for translations to reflect societal biases, such as gender
-    #bias. Decoder-only language models (LLMs) have demonstrated potential in MT, albeit
-    #with performance slightly lagging behind traditional encoder-decoder neural machine
-    #translation (NMT) systems. However, LLMs offer a unique advantage: the ability
-    #to control the properties of the output through prompting. In this study, we leverage
-    #this flexibility to explore Llama''s capability to produce gender-specific translations.
-    #Our results indicate that Llama can generate gender-specific translations with
-    #translation quality and gender bias comparable to NLLB, a state-of-the-art multilingual
-    #NMT system.'
-  #attributes:
-    #paper_type: N/A
-    #presentation_type: N/A
-    #submitted_area: ''
-  #authors:
-  #- emails: edusanchg@gmail.com
-    #first_name: Eduardo
-    #institution: University College London, University of London and Meta
-    #last_name: Sánchez
-    #name: Eduardo Sánchez
-    #orcid: https://orcid.org/0009-0001-7574-4579
-    #username: ~Eduardo_Sánchez1
-  #- dblp_id: https://dblp.org/pid/46/3930
-    #emails: pierre.andrews@gmail.com
-    #first_name: Pierre
-    #google_scholar_id: https://scholar.google.com/citations?user=DiJPt0EAAAAJ&hl=en
-    #last_name: Andrews
-    #name: Pierre Andrews
-    #orcid: https://orcid.org/0000-0001-6780-7798
-    #semantic_scholar_id: https://www.semanticscholar.org/author/Pierre-Yves-Andrews/5657660
-    #username: ~Pierre_Andrews1
-  #- emails: pontus@stenetorp.se
-    #first_name: Pontus
-    #homepage: https://pontus.stenetorp.se
-    #institution: University College London
-    #last_name: Stenetorp
-    #name: Pontus Stenetorp
-    #semantic_scholar_id: https://www.semanticscholar.org/author/Pontus-Stenetorp/1918552
-    #username: ~Pontus_Stenetorp1
-  #- dblp_id: https://dblp.org/pid/168/0354
-    #emails: mikel@reka.ai
-    #first_name: Mikel
-    #google_scholar_id: https://scholar.google.com/citations?user=N5InzP8AAAAJ
-    #homepage: http://www.mikelartetxe.com
-    #institution: Reka AI
-    #last_name: Artetxe
-    #name: Mikel Artetxe
-    #semantic_scholar_id: https://www.semanticscholar.org/author/Mikel-Artetxe/2347956
-    #username: ~Mikel_Artetxe1
-  #- dblp_id: https://dblp.org/pid/17/2183
-    #emails: costajussa@meta.com
-    #first_name: Marta
-    #google_scholar_id: https://scholar.google.com/citations?user=ESqQ7FoAAAAJ&hl=ca
-    #homepage: https://www.costa-jussa.com
-    #institution: Meta
-    #last_name: Costa-jussà
-    #middle_name: R.
-    #name: Marta R. Costa-jussà
-    #semantic_scholar_id: https://www.semanticscholar.org/author/Marta-R.-Costa-juss%C3%A0/1680233
-    #username: ~Marta_R._Costa-jussà1
-  #decision: MRL
-  #file: 14.pdf
-  #id: 14
-  #openreview_id: rEtohkgDkv
-  #pdf_file: 256a671219dcbdc863fc5cd39996dcc09d8cfb9c.pdf
-  #title: Gender-specific Machine Translation with Large Language Models
+
+- abstract: |
+    'While machine translation (MT) systems have seen significant improvements,
+    it is still common for translations to reflect societal biases, such as gender
+    bias. Decoder-only language models (LLMs) have demonstrated potential in MT, albeit
+    with performance slightly lagging behind traditional encoder-decoder neural machine
+    translation (NMT) systems. However, LLMs offer a unique advantage: the ability
+    to control the properties of the output through prompting. In this study, we leverage
+    this flexibility to explore Llama''s capability to produce gender-specific translations.
+    Our results indicate that Llama can generate gender-specific translations with
+    translation quality and gender bias comparable to NLLB, a state-of-the-art multilingual
+    NMT system.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: edusanchg@gmail.com
+    first_name: Eduardo
+    institution: University College London, University of London and Meta
+    last_name: Sánchez
+    name: Eduardo Sánchez
+    orcid: https://orcid.org/0009-0001-7574-4579
+    username: ~Eduardo_Sánchez1
+  - dblp_id: https://dblp.org/pid/46/3930
+    emails: pierre.andrews@gmail.com
+    first_name: Pierre
+    google_scholar_id: https://scholar.google.com/citations?user=DiJPt0EAAAAJ&hl=en
+    last_name: Andrews
+    name: Pierre Andrews
+    orcid: https://orcid.org/0000-0001-6780-7798
+    semantic_scholar_id: https://www.semanticscholar.org/author/Pierre-Yves-Andrews/5657660
+    username: ~Pierre_Andrews1
+  - emails: pontus@stenetorp.se
+    first_name: Pontus
+    homepage: https://pontus.stenetorp.se
+    institution: University College London
+    last_name: Stenetorp
+    name: Pontus Stenetorp
+    semantic_scholar_id: https://www.semanticscholar.org/author/Pontus-Stenetorp/1918552
+    username: ~Pontus_Stenetorp1
+  - dblp_id: https://dblp.org/pid/168/0354
+    emails: mikel@reka.ai
+    first_name: Mikel
+    google_scholar_id: https://scholar.google.com/citations?user=N5InzP8AAAAJ
+    homepage: http://www.mikelartetxe.com
+    institution: Reka AI
+    last_name: Artetxe
+    name: Mikel Artetxe
+    semantic_scholar_id: https://www.semanticscholar.org/author/Mikel-Artetxe/2347956
+    username: ~Mikel_Artetxe1
+  - dblp_id: https://dblp.org/pid/17/2183
+    emails: costajussa@meta.com
+    first_name: Marta
+    google_scholar_id: https://scholar.google.com/citations?user=ESqQ7FoAAAAJ&hl=ca
+    homepage: https://www.costa-jussa.com
+    institution: Meta
+    last_name: Costa-jussà
+    middle_name: R.
+    name: Marta R. Costa-jussà
+    semantic_scholar_id: https://www.semanticscholar.org/author/Marta-R.-Costa-juss%C3%A0/1680233
+    username: ~Marta_R._Costa-jussà1
+  decision: MRL
+  file: 14.pdf
+  id: 14
+  openreview_id: rEtohkgDkv
+  pdf_file: 256a671219dcbdc863fc5cd39996dcc09d8cfb9c.pdf
+  title: 'Gender-specific Machine Translation with Large Language Models'
 - abstract: Multi-vector dense models, such as ColBERT, have proven highly effective
     in information retrieval. ColBERT's late interaction scoring approximates the
     joint query-document attention seen in cross-encoders while maintaining inference
